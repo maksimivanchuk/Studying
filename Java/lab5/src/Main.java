@@ -1,12 +1,11 @@
 import java.awt.*;
-
 class ArgsException extends Exception {
     public ArgsException(String str) {
         super(str);
     }
 }
 
-public class Main {
+public class Main{
 
     public static void main(String[] args) {
         try {

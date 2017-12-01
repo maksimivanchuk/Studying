@@ -2,9 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.io.File;
 
 
-public class MainFrame extends JFrame {
+class MainFrame extends JFrame {
     private String title;
     private Dimension d;
     private int progress = 0;
@@ -27,16 +28,16 @@ public class MainFrame extends JFrame {
     private JRadioButton Liner = new JRadioButton(" Арифметическая прогрессия");
     private JRadioButton Exponential = new JRadioButton(" Геометрическая прогрессия ");
 
-    public MainFrame(String title, Dimension d) {
+    MainFrame(String title, Dimension d) {
         this.title = title;
         this.d = d;
     }
 
-    public void init() {
+    void init() {
         setTitle(title);
         setSize(d);
         setLayout(new GridBagLayout());
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
 
         ButtonGroup group = new ButtonGroup();
@@ -66,7 +67,7 @@ public class MainFrame extends JFrame {
         add(n, new GridBagConstraints(2, 1, 1, 1, 1, 1, GridBagConstraints.CENTER, GridBagConstraints.CENTER, new Insets(1, 1, 1, 1), 0, 0));
 
         setVisible(true);
-        pack();
+        //pack();
     }
 
     public class ButtonActionListener1 implements ActionListener {
@@ -101,7 +102,6 @@ public class MainFrame extends JFrame {
             }
         }
 
-        ;
     }
 
     public class ButtonActionListener3 implements ActionListener {
@@ -133,7 +133,6 @@ public class MainFrame extends JFrame {
             }
         }
 
-        ;
     }
 
     public class ButtonActionListener2 implements ActionListener {
@@ -153,37 +152,40 @@ public class MainFrame extends JFrame {
                 text3Field.setText("0");
             }
             if (progress >= 1) {
-                if (progress == 1) {
-                    Liner a = new Liner(Double.valueOf(str1), Double.valueOf(str2), Integer.valueOf(str3));
-                    a.FileRecoder(a.toString());
-                } else {
-                    Exponential a = new Exponential(Double.valueOf(str1), Double.valueOf(str2), Integer.valueOf(str3));
-                    a.FileRecoder(a.toString());
+                Liner a = new Liner(Double.valueOf(str1), Double.valueOf(str2), Integer.valueOf(str3));
+                JFileChooser fc = new JFileChooser(new File("."));
+                if (fc.showSaveDialog(null) == JFileChooser.APPROVE_OPTION) {
+                    if (progress == 1) {
+
+                        a.save(fc.getSelectedFile());
+
+                    } else
+                        a.save(fc.getSelectedFile());
+
                 }
+
 
             }
 
         }
 
-        ;
+  }
+
+
+public class RadioButtonActionListener1 implements ActionListener {
+
+    public void actionPerformed(ActionEvent e) {
+        progress = 1;
     }
 
-    public class RadioButtonActionListener1 implements ActionListener {
+}
 
-        public void actionPerformed(ActionEvent e) {
-            progress = 1;
-        }
+public class RadioButtonActionListener2 implements ActionListener {
 
-        ;
+    public void actionPerformed(ActionEvent e) {
+        progress = 2;
     }
 
-    public class RadioButtonActionListener2 implements ActionListener {
-
-        public void actionPerformed(ActionEvent e) {
-            progress = 2;
-        }
-
-        ;
-    }
+}
 }
 

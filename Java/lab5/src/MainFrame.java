@@ -12,11 +12,12 @@ public class MainFrame extends JFrame {
     private JTextField text1Field = new JTextField("0", 10);
     private JTextField text2Field = new JTextField("0", 10);
     private JTextField text3Field = new JTextField("0", 10);
+    private JTextField textField = new JTextField("", 10);
 
     private JButton button1 = new JButton(" Рассчитать");
     private JButton button2 = new JButton(" Вывести в файл");
     private JButton button3 = new JButton(" Сумма");
-    private JLabel label = new JLabel(" ");
+
     private JLabel label2 = new JLabel(" ");
 
     private JLabel A0 = new JLabel("A0");
@@ -57,7 +58,7 @@ public class MainFrame extends JFrame {
         add(button1, new GridBagConstraints(0, 3, 1, 1, 1, 1, GridBagConstraints.NORTH, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 0, 0));
         add(button2, new GridBagConstraints(2, 3, 1, 1, 1, 1, GridBagConstraints.NORTH, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 0, 0));
 
-        add(label, new GridBagConstraints(0, 4, 3, 2, 1, 1, GridBagConstraints.NORTH, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 1, 1));
+        add(textField, new GridBagConstraints(0, 4, 3, 2, 1, 1, GridBagConstraints.NORTH, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 1, 1));
         add(button3, new GridBagConstraints(0, 6, 1, 1, 1, 1, GridBagConstraints.CENTER, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 0, 0));
         add(label2, new GridBagConstraints(1, 6, 1, 1, 1, 1, GridBagConstraints.WEST, GridBagConstraints.HORIZONTAL, new Insets(1, 1, 1, 1), 0, 0));
         add(A0, new GridBagConstraints(0, 1, 1, 1, 1, 1, GridBagConstraints.CENTER, GridBagConstraints.CENTER, new Insets(1, 1, 1, 1), 0, 0));
@@ -65,7 +66,7 @@ public class MainFrame extends JFrame {
         add(n, new GridBagConstraints(2, 1, 1, 1, 1, 1, GridBagConstraints.CENTER, GridBagConstraints.CENTER, new Insets(1, 1, 1, 1), 0, 0));
 
         setVisible(true);
-        //pack();
+        pack();
     }
 
     public class ButtonActionListener1 implements ActionListener {
@@ -89,11 +90,11 @@ public class MainFrame extends JFrame {
 
                     Liner a = new Liner(Double.valueOf(str1), Double.valueOf(str2), Integer.valueOf(str3));
                     String str = a.toString();
-                    label.setText(str);
+                    textField.setText(str);
                 } else {
                     Exponential a = new Exponential(Double.valueOf(str1), Double.valueOf(str2), Integer.valueOf(str3));
                     String str = a.toString();
-                    label.setText(str);
+                    textField.setText(str);
                 }
 
 

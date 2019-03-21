@@ -1,0 +1,1377 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[     50883,       1367]
+NotebookOptionsPosition[     49990,       1342]
+NotebookOutlinePosition[     50344,       1358]
+CellTagsIndexPosition[     50301,       1355]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"frab", "=", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"0", ",", 
+      RowBox[{
+       RowBox[{"1", "e"}], "-", "05"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"1", ",", "0.011443335582"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"2", ",", "0.011502766174"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"3", ",", "0.011587161721"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"4", ",", "0.011672604731"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"5", ",", "0.011759234658"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"6", ",", "0.011847096932"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"7", ",", "0.011936240647"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"8", ",", "0.012026718435"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"9", ",", "0.012118586772"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"10", ",", "0.012211906303"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"11", ",", "0.012306742209"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"12", ",", "0.012403164608"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"13", ",", "0.01250124899"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"14", ",", "0.012601076713"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"15", ",", "0.012702735541"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"16", ",", "0.012806320249"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"17", ",", "0.012911933296"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"18", ",", "0.013019685576"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"19", ",", "0.01312969726"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"20", ",", "0.013242098752"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"21", ",", "0.013357031751"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"22", ",", "0.01347465047"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"23", ",", "0.013595123014"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"24", ",", "0.013718632944"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"25", ",", "0.013845381084"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"26", ",", "0.013975587584"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"27", ",", "0.014109494304"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"28", ",", "0.01424736758"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"29", ",", "0.014389501443"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"30", ",", "0.014536221388"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"31", ",", "0.014687888802"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"32", ",", "0.014844906213"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"33", ",", "0.015007723521"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"34", ",", "0.015176845471"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"35", ",", "0.015352840655"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"36", ",", "0.015536352436"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"37", ",", "0.015728112319"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"38", ",", "0.015928956447"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"39", ",", "0.016139846122"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"40", ",", "0.016361893623"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"41", ",", "0.016596394991"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"42", ",", "0.016844872193"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"43", ",", "0.017109128028"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"44", ",", "0.017391318682"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"45", ",", "0.017694051135"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"46", ",", "0.018020516302"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"47", ",", "0.01837467477"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"48", ",", "0.018761521915"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"49", ",", "0.019187476554"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"50", ",", "0.019660968537"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"51", ",", "0.02019336001"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"52", ",", "0.020800453945"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"53", ",", "0.021505098686"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"54", ",", "0.02234199176"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"55", ",", "0.023367325498"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"56", ",", "0.024680490073"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"57", ",", "0.026481503358"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"58", ",", "0.029267135531"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"59", ",", "0.034927421853"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"60", ",", "0.060972542458"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"61", ",", "0.03107743026"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"62", ",", "0.026656348671"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"63", ",", "0.025185047133"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"64", ",", "0.024224049977"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"65", ",", "0.023508016909"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"66", ",", "0.022947342081"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"67", ",", "0.022494626124"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"68", ",", "0.022121348958"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"69", ",", "0.021809024189"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"70", ",", "0.021545010102"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"71", ",", "0.021320301638"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"72", ",", "0.021128274645"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"73", ",", "0.020963928626"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"74", ",", "0.020823408114"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"75", ",", "0.020703688309"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"76", ",", "0.020602361839"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"77", ",", "0.020517490094"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"78", ",", "0.020447497187"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"79", ",", "0.020391092714"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"80", ",", "0.020347214595"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"81", ",", "0.020314986047"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"82", ",", "0.0202936829"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"83", ",", "0.020282708413"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"84", ",", "0.020281573783"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"85", ",", "0.020289882948"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"86", ",", "0.020307320759"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"87", ",", "0.020333643727"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"88", ",", "0.020368672938"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"89", ",", "0.020412288649"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"90", ",", "0.020464426359"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"91", ",", "0.020525074117"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"92", ",", "0.020594270942"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"93", ",", "0.020672106286"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"94", ",", "0.020758720437"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"95", ",", "0.020854305959"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"96", ",", "0.020959110095"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"97", ",", "0.021073438286"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"98", ",", "0.021197658904"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"99", ",", "0.021332209388"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"100", ",", "0.021477603978"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"101", ",", "0.02163444343"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"102", ",", "0.021803427123"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"103", ",", "0.021985368099"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"104", ",", "0.022181211819"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"105", ",", "0.022392059689"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"106", ",", "0.022619198651"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"107", ",", "0.02286413883"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"108", ",", "0.023128661773"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"109", ",", "0.02341488307"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"110", ",", "0.023725334546"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"111", ",", "0.024063073852"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"112", ",", "0.024431832917"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"113", ",", "0.024836222849"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"114", ",", "0.025282022849"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"115", ",", "0.025776597615"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"116", ",", "0.026329517747"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"117", ",", "0.026953512827"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"118", ",", "0.027665994305"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"119", ",", "0.028491606764"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"120", ",", "0.02946675864"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"121", ",", "0.030648282948"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"122", ",", "0.032131666862"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"123", ",", "0.034094849193"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"124", ",", "0.036926188052"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"125", ",", "0.041744697585"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"126", ",", "0.055042929171"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"127", ",", "0.051274195588"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"128", ",", "0.039522164856"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"129", ",", "0.035603573554"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"130", ",", "0.033600285137"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"131", ",", "0.032252195657"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"132", ",", "0.031249208094"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"133", ",", "0.030463361604"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"134", ",", "0.029827005353"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"135", ",", "0.029299766265"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"136", ",", "0.028855607821"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"137", ",", "0.028476774535"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"138", ",", "0.028150631201"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"139", ",", "0.027867878075"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"140", ",", "0.027621480264"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"141", ",", "0.027405993801"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"142", ",", "0.027217124316"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"143", ",", "0.027051428318"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"144", ",", "0.026906105193"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"145", ",", "0.026778848867"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"146", ",", "0.026667739744"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"147", ",", "0.02657116447"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"148", ",", "0.026487755463"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"149", ",", "0.02641634451"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"150", ",", "0.026355926873"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"151", ",", "0.026305633022"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"152", ",", "0.026264706238"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"153", ",", "0.026232484646"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"154", ",", "0.026208386691"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"155", ",", "0.02619189925"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"156", ",", "0.026182567929"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"157", ",", "0.026179988957"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"158", ",", "0.026183802475"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"159", ",", "0.026193686906"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"160", ",", "0.026209354177"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"161", ",", "0.026230545713"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"162", ",", "0.026257028969"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"163", ",", "0.026288594528"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"164", ",", "0.026325053543"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"165", ",", "0.026366235563"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"166", ",", "0.026411986654"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"167", ",", "0.026462167732"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"168", ",", "0.026516653142"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"169", ",", "0.026575329415"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"170", ",", "0.026638094128"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"171", ",", "0.026704854976"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"172", ",", "0.026775528886"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"173", ",", "0.026850041276"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"174", ",", "0.026928325379"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"175", ",", "0.027010321644"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"176", ",", "0.027095977215"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"177", ",", "0.02718524544"}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{"178", ",", "0.02724071573"}], "}"}]}], "}"}]}]], "Input",
+ CellChangeTimes->{{3.754512121894207*^9, 3.7545121278698387`*^9}},
+ CellLabel->"In[3]:=",ExpressionUUID->"733ad02e-1e31-409a-9abd-a2e985c0479f"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"0", ",", 
+     RowBox[{
+      RowBox[{"-", "5"}], "+", "e"}]}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"1", ",", "0.011443335582`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"2", ",", "0.011502766174`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"3", ",", "0.011587161721`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"4", ",", "0.011672604731`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"5", ",", "0.011759234658`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"6", ",", "0.011847096932`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"7", ",", "0.011936240647`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"8", ",", "0.012026718435`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"9", ",", "0.012118586772`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"10", ",", "0.012211906303`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"11", ",", "0.012306742209`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"12", ",", "0.012403164608`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"13", ",", "0.01250124899`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"14", ",", "0.012601076713`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"15", ",", "0.012702735541`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"16", ",", "0.012806320249`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"17", ",", "0.012911933296`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"18", ",", "0.013019685576`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"19", ",", "0.01312969726`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"20", ",", "0.013242098752`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"21", ",", "0.013357031751`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"22", ",", "0.01347465047`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"23", ",", "0.013595123014`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"24", ",", "0.013718632944`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"25", ",", "0.013845381084`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"26", ",", "0.013975587584`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"27", ",", "0.014109494304`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"28", ",", "0.01424736758`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"29", ",", "0.014389501443`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"30", ",", "0.014536221388`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"31", ",", "0.014687888802`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"32", ",", "0.014844906213`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"33", ",", "0.015007723521`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"34", ",", "0.015176845471`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"35", ",", "0.015352840655`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"36", ",", "0.015536352436`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"37", ",", "0.015728112319`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"38", ",", "0.015928956447`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"39", ",", "0.016139846122`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"40", ",", "0.016361893623`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"41", ",", "0.016596394991`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"42", ",", "0.016844872193`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"43", ",", "0.017109128028`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"44", ",", "0.017391318682`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"45", ",", "0.017694051135`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"46", ",", "0.018020516302`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"47", ",", "0.01837467477`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"48", ",", "0.018761521915`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"49", ",", "0.019187476554`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"50", ",", "0.019660968537`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"51", ",", "0.02019336001`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"52", ",", "0.020800453945`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"53", ",", "0.021505098686`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"54", ",", "0.02234199176`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"55", ",", "0.023367325498`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"56", ",", "0.024680490073`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"57", ",", "0.026481503358`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"58", ",", "0.029267135531`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"59", ",", "0.034927421853`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"60", ",", "0.060972542458`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"61", ",", "0.03107743026`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"62", ",", "0.026656348671`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"63", ",", "0.025185047133`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"64", ",", "0.024224049977`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"65", ",", "0.023508016909`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"66", ",", "0.022947342081`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"67", ",", "0.022494626124`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"68", ",", "0.022121348958`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"69", ",", "0.021809024189`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"70", ",", "0.021545010102`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"71", ",", "0.021320301638`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"72", ",", "0.021128274645`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"73", ",", "0.020963928626`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"74", ",", "0.020823408114`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"75", ",", "0.020703688309`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"76", ",", "0.020602361839`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"77", ",", "0.020517490094`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"78", ",", "0.020447497187`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"79", ",", "0.020391092714`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"80", ",", "0.020347214595`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"81", ",", "0.020314986047`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"82", ",", "0.0202936829`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"83", ",", "0.020282708413`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"84", ",", "0.020281573783`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"85", ",", "0.020289882948`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"86", ",", "0.020307320759`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"87", ",", "0.020333643727`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"88", ",", "0.020368672938`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"89", ",", "0.020412288649`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"90", ",", "0.020464426359`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"91", ",", "0.020525074117`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"92", ",", "0.020594270942`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"93", ",", "0.020672106286`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"94", ",", "0.020758720437`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"95", ",", "0.020854305959`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"96", ",", "0.020959110095`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"97", ",", "0.021073438286`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"98", ",", "0.021197658904`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"99", ",", "0.021332209388`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"100", ",", "0.021477603978`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"101", ",", "0.02163444343`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"102", ",", "0.021803427123`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"103", ",", "0.021985368099`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"104", ",", "0.022181211819`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"105", ",", "0.022392059689`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"106", ",", "0.022619198651`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"107", ",", "0.02286413883`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"108", ",", "0.023128661773`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"109", ",", "0.02341488307`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"110", ",", "0.023725334546`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"111", ",", "0.024063073852`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"112", ",", "0.024431832917`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"113", ",", "0.024836222849`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"114", ",", "0.025282022849`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"115", ",", "0.025776597615`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"116", ",", "0.026329517747`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"117", ",", "0.026953512827`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"118", ",", "0.027665994305`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"119", ",", "0.028491606764`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"120", ",", "0.02946675864`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"121", ",", "0.030648282948`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"122", ",", "0.032131666862`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"123", ",", "0.034094849193`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"124", ",", "0.036926188052`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"125", ",", "0.041744697585`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"126", ",", "0.055042929171`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"127", ",", "0.051274195588`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"128", ",", "0.039522164856`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"129", ",", "0.035603573554`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"130", ",", "0.033600285137`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"131", ",", "0.032252195657`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"132", ",", "0.031249208094`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"133", ",", "0.030463361604`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"134", ",", "0.029827005353`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"135", ",", "0.029299766265`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"136", ",", "0.028855607821`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"137", ",", "0.028476774535`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"138", ",", "0.028150631201`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"139", ",", "0.027867878075`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"140", ",", "0.027621480264`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"141", ",", "0.027405993801`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"142", ",", "0.027217124316`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"143", ",", "0.027051428318`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"144", ",", "0.026906105193`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"145", ",", "0.026778848867`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"146", ",", "0.026667739744`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"147", ",", "0.02657116447`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"148", ",", "0.026487755463`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"149", ",", "0.02641634451`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"150", ",", "0.026355926873`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"151", ",", "0.026305633022`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"152", ",", "0.026264706238`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"153", ",", "0.026232484646`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"154", ",", "0.026208386691`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"155", ",", "0.02619189925`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"156", ",", "0.026182567929`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"157", ",", "0.026179988957`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"158", ",", "0.026183802475`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"159", ",", "0.026193686906`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"160", ",", "0.026209354177`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"161", ",", "0.026230545713`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"162", ",", "0.026257028969`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"163", ",", "0.026288594528`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"164", ",", "0.026325053543`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"165", ",", "0.026366235563`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"166", ",", "0.026411986654`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"167", ",", "0.026462167732`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"168", ",", "0.026516653142`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"169", ",", "0.026575329415`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"170", ",", "0.026638094128`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"171", ",", "0.026704854976`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"172", ",", "0.026775528886`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"173", ",", "0.026850041276`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"174", ",", "0.026928325379`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"175", ",", "0.027010321644`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"176", ",", "0.027095977215`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"177", ",", "0.02718524544`"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"178", ",", "0.02724071573`"}], "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.754512212139173*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"0e89dffa-877a-4ab5-b652-10f0275b633f"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Show", "[", 
+  RowBox[{
+   RowBox[{"ListLinePlot", "[", "frab", "]"}], ",", " ", 
+   RowBox[{"ImageSize", "->", "Full"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.754512130109715*^9, 3.754512208172901*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"586c0116-bde2-4357-ad7a-1870628fcd84"],
+
+Cell[BoxData[
+ GraphicsBox[{{}, {{}, {}, 
+    {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+      NCache[
+       Rational[1, 72], 0.013888888888888888`]], AbsoluteThickness[1.6], 
+     LineBox[CompressedData["
+1:eJw1yXlI03EYx/Gfk7QIYoWGpamJjTyamjqvuX3mNp1uy+qPSgPLzAqpvEqM
+hCY6O7xyumbzqCkq5BUWmpbziEiEvHWVzDwpUksIUiK66Pt94OHh9bz3nkk+
+mshiGIb/d//d/7MmjKtqUOmTbwrJA548oevLIurNqJW5qVnPqdk4cdyQNfSR
+2gY53aL+INtbxHZo+skkR4mpHTCf2bXLOo3aGWtu78cyDNQucODNcg2j1K6w
+b84/UsS6TcxBWVvGj3A/6v0wd5o1E+eo3bE0VsIX6ak9sZxnuaAboubitWuP
+ctHyDrE3xhJ4/r7B1D7guM3GaFKpD+JwolU1+xG1L9oTnroYF6j9IJouvtDk
+mE/sD2P8sStfYql5ME33bJSXUwcgONuk7jdRByL72zNjjl0BcRCuDtTr1mOp
+g7F9bqUy5AF1CKSKQUnKEjUfAun1Q50HColDwRof9xZkUguwLOqtcH9FLYQg
+NIndalNEDMSrSrUW54lVQK68pTDuBe0i6HU1HVtsi0kXQZnrcDY6lZgJA8e8
+uKIepT0MlyY4vdb2d0kXI1f026Mlmlglxs5qq+7vebRL8PDxVjvPPtolkO/4
+wKv7RbsUlUlt/AFhCelSdJWe2rdNTcyEw3tmsdZ6mPZwOGsnGxMcNaRHYFDZ
+dnojnVgVgZyZtwXDI7TLECPxuRjIKyVdhhp/j765OmImEmybG2ILlzLSI6FJ
+O5le0kzMRGHQyzjZrtCSHoWpTzzj5U33SJejidvTOjpLrJLjWjS/Ub+qI10B
+1tK7epP0PukKTKVkVazvqSBdiVinkQC/jSrSlTAHer2xmDcIV3d/dRp/osTI
+Z3MHV9Yg/ANNtA3z
+      "]], LineBox[CompressedData["
+1:eJw91HsslXEcx/HHCTO1yakJlUkZLRPVZqdaPpxcNnac+41zXJbosrCjmnWs
+h4RaJtLliBJRacolmssfZ8klcpKQZVnWYhhh1Zp2FPP79WzPnr337PXH7/l9
+f8+OuCRxPIdhGP7KvfqsCZ3SawIF6J/+/NI79JE/s3qxArhzU2zbB+6vNROB
+BP6WkL6wu+R9BHpDdk5u7TGQ90JoPZrSfEx31hpCzBmCIvRc0qwQLTquXebF
+22ttFCLQ38M0aEOaESG2MsiwVHWLeBHK1xmGnWWkWRF8+1w8vtmRNoowUuvM
+Mw/eJF6MLw76zKpy0hBjoCQmqeA8aVaMq1wNv1VM2ijGh9hORrWfegncsoKd
+3jhSL8HGnLe6KxzqJXBx7Bf4zBcRL8FUgtI+YZw0I0Usjzk7MUQaUmS6tZfr
++kizUhh7L1iMdVEvhSn30GXza+plyLBKjqmjDRkWPU3LY53UyxBn3n4wpZd6
+GRKv81sVA9TLsbknm80epV6OT7Ft7M8J6uX4uNCRUPaDejkCTosTsy3p+hXI
+9212rXag61eAJzQW2O+h61cgZi7XvTOAfj8FnqWFdw+qqVeiz7PSXnCOeiV8
+GjkZwUXUKyGOWDINv6BeiTybOvm2EepV+C1sKeYtU6+ClXl5Ru5B91+Fh6fa
+eBUSuv8qTOya3CS7RJpRo6Tk2OzTJjo/atyo8KtdmKVejca/Y8363XT+1Bio
+cY6rP0HnL3JlHp/42T4njUh8n3E6wF0izUYi/d2If2oYmWdjJP7wFq6ZK0gz
+URjVJ+c9tiTnAVEwri9sqD5Dmo2Cbz2Gcr6SNkZB0G2z1zu+mHgNso4UWrv+
+Ig0NOrpPljUY6HnTwF5qoUuTlhCvQYjnBs2kVynxWjjsa6rP9bpHvBY3u17p
++HHk/LJaWPrUDObryojXgrOYHj6e+oD4aHAOOx01T5YTH42M4+9L86Mr/fnW
+y9Pzouj//4d/auJICg==
+      "]], LineBox[CompressedData["
+1:eJw90VlIFHEAx/E/HkS5bHYQldqOER6FW4L2INb+skuQDpuXyGPn+m+UsKkP
+JWmx0PZQaUiG6a7mmFHtm536ELZ0gRpbJElRnql4YHYYu1aLHfv/NzAMH/7M
+fOE38cqxAzSMEJL25/77rKgu2Fk3YMWryb42c/ZNC/l3SWhcbei2ZF4PWZBw
+kSxtbc64FjIkzBbXlxvTmkOWJKTmrYvJP6OH7JBgvZz0vmu+KWRdwrNA1pXO
+VGavhISSuNLA+ashD0pI+lq14DFhJjJSZ2oXi5WNrC9jPCEnGJ7MDBn+TyeH
+nD0NrC8jRn/SQs8xO2T8aHAl+7KZdRn2nrzY3Ghmrwznjv05vn4368sw5Xc0
+Fd5lJgoulJ1I3FXFLCgIG7ELk0XMUPBFyGzv3MssKVi0zeMpS2d2KBiPfJPi
+NjHrCjwiGRg2MHsVPLg/ts8QdLG+AmPXmoS+GWaiYkW6WL92lFlQ4Z+u3dr6
+gRkqCiMGjdZeZkkFvdHtMrxmdqh4PjSlul4y6yoylp3NnfYxe1VsaMjaMs3P
+B1VsHz51ycnfJxpaSpJ+NfHvCxpGjsyZzP/7GsxL3immj7yvoe1OZBud4n0N
+XUfji2dneV+D/OJtnHee9zVkfHMVdUTx/TXcDnwPH1vJ96eYE1PKzIl8f4rK
+5QPrqzfz/SkQa8+M2M33p9j4MLrceZDvT6EurBOj+P/SKcIm7j2tOc33pwj8
+PCSuquF9iolNx0ndLd63oUDxWwyPeN+G/lHtc2kv79tweE97RXDEbfkNKr0D
+lw==
+      "]]}}, {}, {}, {}, {}},
+  AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+  Axes->{True, True},
+  AxesLabel->{None, None},
+  AxesOrigin->{0, 0},
+  DisplayFunction->Identity,
+  Frame->{{False, False}, {False, False}},
+  FrameLabel->{{None, None}, {None, None}},
+  FrameTicks->{{Automatic, Automatic}, {Automatic, Automatic}},
+  GridLines->{None, None},
+  GridLinesStyle->Directive[
+    GrayLevel[0.5, 0.4]],
+  ImagePadding->All,
+  ImageSize->Full,
+  Method->{"CoordinatesToolOptions" -> {"DisplayFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& ), "CopiedValueFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& )}},
+  PlotRange->{{0, 178.}, {0, 0.045472583718000004`}},
+  PlotRangeClipping->True,
+  PlotRangePadding->{{
+     Scaled[0.02], 
+     Scaled[0.02]}, {
+     Scaled[0.02], 
+     Scaled[0.05]}},
+  Ticks->{Automatic, Automatic}]], "Output",
+ CellChangeTimes->{{3.754512209549124*^9, 3.754512215418467*^9}},
+ CellLabel->"Out[4]=",ExpressionUUID->"6642219c-7244-40b4-a094-2bc07238c4cc"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.754512158919187*^9, 
+  3.754512176375342*^9}},ExpressionUUID->"f6bc6ca4-4ddd-4753-a21d-\
+e9d63d3a48e0"],
+
+Cell[BoxData[
+ DynamicModuleBox[{Typeset`open$$ = True}, 
+  PaneSelectorBox[{False->
+   RowBox[{
+    OpenerBox[Dynamic[Typeset`open$$],
+     ImageSize->Small], 
+    StyleBox["System`", "InfoHeading"]}], True->GridBox[{
+     {
+      RowBox[{
+       OpenerBox[Dynamic[Typeset`open$$],
+        ImageSize->Small], 
+       StyleBox["System`", "InfoHeading"]}]},
+     {GridBox[{
+        {
+         ButtonBox["CarlemanLinearize",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"CarlemanLinearize", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineBreakChart",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LineBreakChart", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["ColumnLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"ColumnLines", "System`"}},
+          
+          ButtonNote->"System`"], 
+         ButtonBox["LinebreakSemicolonWeighting",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "LinebreakSemicolonWeighting", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["ContourLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"ContourLines", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineBreakWithin",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LineBreakWithin", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["DefaultGridLinesStyle",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"DefaultGridLinesStyle", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineColor",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineColor", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["DualLinearProgramming",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"DualLinearProgramming", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineGraph",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineGraph", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["EndOfLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"EndOfLine", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineIndent",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineIndent", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["ExcludedLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"ExcludedLines", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineIndentMaxFraction",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LineIndentMaxFraction", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["FeedbackLinearize",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"FeedbackLinearize", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineIntegralConvolutionPlot",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "LineIntegralConvolutionPlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["FindLinearRecurrence",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"FindLinearRecurrence", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineIntegralConvolutionScale",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "LineIntegralConvolutionScale", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["FractionLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"FractionLine", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineLegend",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineLegend", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GeneralizedLinearModelFit",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "GeneralizedLinearModelFit", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineOpacity",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineOpacity", "System`"}},
+          
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GeoGridLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"GeoGridLines", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineSpacing",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineSpacing", "System`"}},
+          
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GeoGridLinesStyle",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"GeoGridLinesStyle", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LineWrapParts",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LineWrapParts", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GetLinebreakInformationPacket",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "GetLinebreakInformationPacket", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["ListLineIntegralConvolutionPlot",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "ListLineIntegralConvolutionPlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GridLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"GridLines", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["ListLinePlot",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"ListLinePlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["GridLinesStyle",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"GridLinesStyle", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["ListLogLinearPlot",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"ListLogLinearPlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["HalfLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"HalfLine", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["LogLinearPlot",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LogLinearPlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["HeaderLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"HeaderLines", "System`"}},
+          
+          ButtonNote->"System`"], 
+         ButtonBox["NicholsGridLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"NicholsGridLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["ImageLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"ImageLines", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["NumberLinePlot",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"NumberLinePlot", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["InfiniteLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"InfiniteLine", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["NyquistGridLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"NyquistGridLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["InsertLinebreaks",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"InsertLinebreaks", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["PageFooterLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"PageFooterLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["Line",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"Line", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["PageHeaderLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"PageHeaderLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["Line3DBox",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"Line3DBox", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["PolarGridLines",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"PolarGridLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["Line3DBoxOptions",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"Line3DBoxOptions", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["ReadLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"ReadLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearFilter",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LinearFilter", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["ReferenceLineStyle",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"ReferenceLineStyle", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearFractionalTransform",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "LinearFractionalTransform", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["RowLines",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"RowLines", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearGradientImage",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearGradientImage", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["SetNotebookStatusLine",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"SetNotebookStatusLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearizingTransformationData",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "LinearizingTransformationData", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["SpanLineThickness",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"SpanLineThickness", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearLayer",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LinearLayer", "System`"}},
+          
+          ButtonNote->"System`"], 
+         ButtonBox["SpectralLineData",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"SpectralLineData", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearModelFit",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearModelFit", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["StartOfLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"StartOfLine", "System`"}},
+          
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearOffsetFunction",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearOffsetFunction", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["StateTransformationLinearize",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {
+            "StateTransformationLinearize", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearProgramming",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearProgramming", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["SystemModelLinearize",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"SystemModelLinearize", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearRecurrence",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearRecurrence", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["SystemsModelLinearity",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"SystemsModelLinearity", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearSolve",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LinearSolve", "System`"}},
+          
+          ButtonNote->"System`"], 
+         ButtonBox["TextLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"TextLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinearSolveFunction",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinearSolveFunction", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["WriteLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"WriteLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LineBox",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineBox", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["$CommandLine",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"$CommandLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LineBoxOptions",
+          BaseStyle->"InformationLink",
+          ButtonData:>{
+           "Info13754522963-4168490", {"LineBoxOptions", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["$Line",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"$Line", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LineBreak",
+          BaseStyle->"InformationLink",
+          ButtonData:>{"Info13754522963-4168490", {"LineBreak", "System`"}},
+          ButtonNote->"System`"], 
+         ButtonBox["$ScriptCommandLine",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"$ScriptCommandLine", "System`"}},
+          ButtonNote->"System`"]},
+        {
+         ButtonBox["LinebreakAdjustments",
+          BaseStyle->"InformationLink",
+          
+          ButtonData:>{
+           "Info13754522963-4168490", {"LinebreakAdjustments", "System`"}},
+          ButtonNote->"System`"], ""}
+       },
+       DefaultBaseStyle->"InfoGrid",
+       GridBoxItemSize->{"Columns" -> {{
+            Scaled[0.475]}}}]}
+    },
+    GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}]}, 
+   Dynamic[Typeset`open$$],
+   ImageSize->Automatic]]], "Print", "InfoCell",
+ CellChangeTimes->{
+  3.754512163860774*^9},ExpressionUUID->"31d3db87-ea55-4698-b52d-\
+f4eec0f7f341"]
+}, Open  ]]
+},
+WindowSize->{Full, Full},
+WindowMargins->{{4, Automatic}, {Automatic, 4}},
+FrontEndVersion->"11.3 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 5, \
+2018)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 13738, 365, 577, "Input",ExpressionUUID->"733ad02e-1e31-409a-9abd-a2e985c0479f"],
+Cell[14321, 389, 13503, 364, 434, "Output",ExpressionUUID->"0e89dffa-877a-4ab5-b652-10f0275b633f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[27861, 758, 308, 6, 44, "Input",ExpressionUUID->"586c0116-bde2-4357-ad7a-1870628fcd84"],
+Cell[28172, 766, 4091, 86, 873, "Output",ExpressionUUID->"6642219c-7244-40b4-a094-2bc07238c4cc"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[32300, 857, 152, 3, 30, "Input",ExpressionUUID->"f6bc6ca4-4ddd-4753-a21d-e9d63d3a48e0"],
+Cell[32455, 862, 17519, 477, 930, "Print",ExpressionUUID->"31d3db87-ea55-4698-b52d-f4eec0f7f341"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

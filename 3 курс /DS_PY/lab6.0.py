@@ -8,6 +8,7 @@ This is a temporary script file.
 import numpy
 from keras.datasets import mnist
 from keras.models import Sequential
+from keras.models import model_from_json
 from keras.layers import Dense
 from keras.utils import np_utils
 
@@ -44,7 +45,7 @@ model.compile(loss="categorical_crossentropy", optimizer="SGD", metrics=["accura
 print(model.summary())
 
 # Обучаем сеть
-model.fit(X_train, Y_train, batch_size=32, epochs=5, validation_split=0.05, verbose=1)
+model.fit(X_train, Y_train, batch_size=128, epochs=5, validation_split=0.05, verbose=1)
 
 # Оцениваем качество обучения сети на тестовых данных
 scores = model.evaluate(X_test, Y_test, verbose=0)
@@ -60,4 +61,18 @@ json_file.close()
 model.save_weights("mnist_model.h5")
 
 print ("Сохранили Model")
+
+
+json_file= open("mnist_model.json","r")
+loaded_model_json=json_file.read()
+json_file.close()
+
+loaded_model = model_from_json(loaded_model_json)
+loaded_model.load_weights("mnist_model.h5")
+
+
+loaded_model.compile(loss="categorical_crossentropy", optimizer = "SGD", metrics = ["accuracy"])
+scores = loaded_model.evaluate(X_test,Y_test,verbose=0)
+print("Точность работы на тестовых данных: %.2f%%" %(scores[1]*100))
+
 

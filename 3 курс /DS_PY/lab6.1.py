@@ -46,7 +46,7 @@ print("Точность работы на тестовых данных : %.2f%%
 
 #%%
 # Загрузка чёрно-белого изображения 28х28, на котором изображена цифра
-pic_name = "6.png"
+pic_name = "5.png"
 img = Image.open(pic_name)
 
 # Преобразование этой картинки в массив нужной размерности согласно её RGB 
@@ -59,12 +59,19 @@ arr = numpy.array(img)
 new_arr = numpy.array([
         [255 - pixel[0] for row in arr for pixel in row]
         ], 'float32')
+im_grey = img.convert('L')
+im_arr = numpy.array(im_grey)
+im_arr = numpy.reshape(im_arr, (1,784)).astype('float32')
+
+x = 255 - im_arr
+x /= 255
+    
     
 # Нормировка данных
 new_arr /= 255
 
 # Работа загруженной нейронной сети со сформированным массивом пикселей
-result = model.predict(new_arr)
+result = model.predict(x)
 for i, perc in enumerate(numpy.round(100 * result)[0]):
     print("%d: %d%%" % (i, perc))
 print("result = %d" % numpy.argmax(result))

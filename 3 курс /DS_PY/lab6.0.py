@@ -45,7 +45,7 @@ model.compile(loss="categorical_crossentropy", optimizer="SGD", metrics=["accura
 print(model.summary())
 
 # Обучаем сеть
-model.fit(X_train, Y_train, batch_size=128, epochs=5, validation_split=0.05, verbose=1)
+model.fit(X_train, Y_train, batch_size=32, epochs=5, validation_split=0.05, verbose=1)
 
 # Оцениваем качество обучения сети на тестовых данных
 scores = model.evaluate(X_test, Y_test, verbose=0)

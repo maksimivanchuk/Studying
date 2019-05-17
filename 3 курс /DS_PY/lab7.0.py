@@ -21,11 +21,11 @@ numpy.random.seed(42)
 # «агружаем данные
 (X_train, y_train), (X_test, y_test) = cifar10.load_data()
 # –азмер мини-выборки
-batch_size = 256
+batch_size = 32
 #  оличество классов изображений
 nb_classes = 10
 #  оличество эпох дл€ обучени€
-nb_epoch = 5
+nb_epoch = 7
 # –азмер изображений
 img_rows, img_cols = 32, 32
 #  оличество каналов в изображении: RGB

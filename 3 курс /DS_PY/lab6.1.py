@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Created on Tue Apr 16 11:28:04 2019
-
 @author: Stan
 """
 
@@ -31,7 +31,6 @@ model.compile(loss="categorical_crossentropy", optimizer="SGD",
 
 # Вывести начальные характеристики нейросети
 print(model.summary())
-
 #%%
 # Данные для тестирования загруженной нейронной сети
 _, (x_test, y_test) = mnist.load_data()
@@ -43,6 +42,7 @@ Y_test = np_utils.to_categorical(y_test, 10)
 # Оцениваем качество обучения сети на тестовых данных
 scores = model.evaluate(X_test, Y_test, verbose=0)
 print("Точность работы на тестовых данных : %.2f%%" % (scores[1] * 100))
+
 
 #%%
 # Загрузка чёрно-белого изображения 28х28, на котором изображена цифра

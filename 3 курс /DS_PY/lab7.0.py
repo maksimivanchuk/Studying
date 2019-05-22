@@ -71,11 +71,11 @@ print("“очность работы на тестовых данных: %.2f%%
 
 model_json = model.to_json()
 # Записываем модель в файлq
-json_file = open("mnist_model.json", "w")
+json_file = open("mnist_model3.json", "w")
 json_file.write(model_json)
 json_file.close()
 
-model.save_weights("mnist_model.h5")
+model.save_weights("mnist_model3.h5")
 
 print ("Сохранили Model")
 

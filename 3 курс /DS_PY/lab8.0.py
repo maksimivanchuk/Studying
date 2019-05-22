@@ -12,7 +12,7 @@ from keras.models import model_from_json
 from keras.preprocessing import image
 
 # Загружаем изображение
-img_path = 'plane.jpg'
+img_path = 'car1.jpg'
 img = image.load_img(img_path, target_size=(32, 32))
 
 # Преобразуем изображением в массив numpy
@@ -29,4 +29,6 @@ loaded_model = model_from_json(loaded_model_json)
 loaded_model.load_weights("mnist_model1.h5")
 loaded_model.compile(loss="categorical_crossentropy", optimizer="adam", metrics=["accuracy"])
 prediction = loaded_model.predict(x)
+classes=['самолет', 'автомобиль', 'птица', 'кот', 'олень', 'собака', 'лягушка', 'лошадь', 'корабль', 'грузовик']
+print(classes[np.argmax(prediction)])
 print(np.argmax(prediction))

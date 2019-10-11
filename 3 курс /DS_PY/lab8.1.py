@@ -11,7 +11,7 @@ from keras.models import model_from_json
 from keras.preprocessing import image
 
 # Загружаем изображение
-img_path = '3.png'
+img_path = '5.png'
 img = image.load_img(img_path, target_size=(28, 28), grayscale=True)
 
 # Преобразуем изображением в массив numpy

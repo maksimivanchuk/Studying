@@ -70,10 +70,10 @@ print("Сохраняем сеть")
 # Сохраняем сеть для последующего использования
 # Генерируем описание модели в формате json
 model_json = model.to_json()
-json_file = open("vgg16_cat_dogs.json", "w")
+json_file = open("vgg16_cat_dogs9.json", "w")
 # Записываем архитектуру сети в файл
 json_file.write(model_json)
 json_file.close()
 # Записываем данные о весах в файл
-model.save_weights("vgg16_cat_dogs.h5")
+model.save_weights("vgg16_cat_dogs9.h5")
 print("Сохранение сети завершено")

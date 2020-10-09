@@ -1,0 +1,8100 @@
+[{
+    "tempo": 2000,
+    "beats": 1.3,
+    "chroma_stft": 286,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.99,
+    "chroma_stft": 260,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.28,
+    "chroma_stft": 38,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.61,
+    "chroma_stft": 162,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.05,
+    "chroma_stft": 155,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.63,
+    "chroma_stft": 329,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.45,
+    "chroma_stft": 200,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.86,
+    "chroma_stft": 244,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.32,
+    "chroma_stft": 441,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.16,
+    "chroma_stft": 229,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.52,
+    "chroma_stft": 158,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.06,
+    "chroma_stft": 498,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.69,
+    "chroma_stft": 209,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.71,
+    "chroma_stft": 363,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.38,
+    "chroma_stft": 176,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.32,
+    "chroma_stft": 42,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.36,
+    "chroma_stft": 224,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.6,
+    "chroma_stft": 235,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.12,
+    "chroma_stft": 305,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.44,
+    "chroma_stft": 430,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.9,
+    "chroma_stft": 167,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.21,
+    "chroma_stft": 365,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.48,
+    "chroma_stft": 307,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.72,
+    "chroma_stft": 125,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.13,
+    "chroma_stft": 374,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.99,
+    "chroma_stft": 503,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.55,
+    "chroma_stft": 158,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.49,
+    "chroma_stft": 190,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.18,
+    "chroma_stft": 129,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.56,
+    "chroma_stft": 475,
+    "rmse": 4.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.31,
+    "chroma_stft": 180,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.47,
+    "chroma_stft": 296,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.41,
+    "chroma_stft": 244,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.33,
+    "chroma_stft": 420,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.91,
+    "chroma_stft": 220,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.72,
+    "chroma_stft": 495,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.33,
+    "chroma_stft": 239,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.39,
+    "chroma_stft": 62,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.76,
+    "chroma_stft": 286,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.16,
+    "chroma_stft": 382,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.61,
+    "chroma_stft": 358,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0,
+    "chroma_stft": 459,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.82,
+    "chroma_stft": 418,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.41,
+    "chroma_stft": 268,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.12,
+    "chroma_stft": 377,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.14,
+    "chroma_stft": 353,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.88,
+    "chroma_stft": 510,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.66,
+    "chroma_stft": 103,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.07,
+    "chroma_stft": 401,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.68,
+    "chroma_stft": 80,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.13,
+    "chroma_stft": 324,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.07,
+    "chroma_stft": 72,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.77,
+    "chroma_stft": 258,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.91,
+    "chroma_stft": 283,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.19,
+    "chroma_stft": 225,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.84,
+    "chroma_stft": 475,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.86,
+    "chroma_stft": 415,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.56,
+    "chroma_stft": 156,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.9,
+    "chroma_stft": 87,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.71,
+    "chroma_stft": 289,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.68,
+    "chroma_stft": 104,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.77,
+    "chroma_stft": 347,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.23,
+    "chroma_stft": 153,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.26,
+    "chroma_stft": 32,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.03,
+    "chroma_stft": 268,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.25,
+    "chroma_stft": 479,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.91,
+    "chroma_stft": 194,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.67,
+    "chroma_stft": 251,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.27,
+    "chroma_stft": 72,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.53,
+    "chroma_stft": 49,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.72,
+    "chroma_stft": 116,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.54,
+    "chroma_stft": 476,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.93,
+    "chroma_stft": 164,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.42,
+    "chroma_stft": 313,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.52,
+    "chroma_stft": 140,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.04,
+    "chroma_stft": 399,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.14,
+    "chroma_stft": 278,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.81,
+    "chroma_stft": 306,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.8,
+    "chroma_stft": 217,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.3,
+    "chroma_stft": 83,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.3,
+    "chroma_stft": 251,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.62,
+    "chroma_stft": 429,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.39,
+    "chroma_stft": 442,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.33,
+    "chroma_stft": 428,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.36,
+    "chroma_stft": 196,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.53,
+    "chroma_stft": 410,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.75,
+    "chroma_stft": 98,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.68,
+    "chroma_stft": 171,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.62,
+    "chroma_stft": 486,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.52,
+    "chroma_stft": 40,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.71,
+    "chroma_stft": 269,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.22,
+    "chroma_stft": 271,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.31,
+    "chroma_stft": 366,
+    "rmse": 2.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.99,
+    "chroma_stft": 511,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.02,
+    "chroma_stft": 34,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.41,
+    "chroma_stft": 295,
+    "rmse": 1.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.39,
+    "chroma_stft": 345,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.29,
+    "chroma_stft": 255,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.95,
+    "chroma_stft": 205,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.93,
+    "chroma_stft": 299,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.67,
+    "chroma_stft": 126,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.41,
+    "chroma_stft": 63,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.95,
+    "chroma_stft": 74,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.81,
+    "chroma_stft": 492,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.6,
+    "chroma_stft": 122,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.25,
+    "chroma_stft": 124,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.67,
+    "chroma_stft": 446,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.84,
+    "chroma_stft": 107,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.09,
+    "chroma_stft": 391,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.87,
+    "chroma_stft": 70,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.76,
+    "chroma_stft": 484,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.7,
+    "chroma_stft": 428,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.03,
+    "chroma_stft": 175,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.3,
+    "chroma_stft": 242,
+    "rmse": 2.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.69,
+    "chroma_stft": 335,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.71,
+    "chroma_stft": 358,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.39,
+    "chroma_stft": 443,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.9,
+    "chroma_stft": 38,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.54,
+    "chroma_stft": 269,
+    "rmse": 4.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.32,
+    "chroma_stft": 212,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.59,
+    "chroma_stft": 123,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.92,
+    "chroma_stft": 461,
+    "rmse": 2.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.57,
+    "chroma_stft": 357,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.92,
+    "chroma_stft": 398,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.3,
+    "chroma_stft": 107,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.13,
+    "chroma_stft": 177,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.78,
+    "chroma_stft": 174,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.38,
+    "chroma_stft": 399,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.94,
+    "chroma_stft": 390,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.36,
+    "chroma_stft": 45,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.93,
+    "chroma_stft": 401,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.08,
+    "chroma_stft": 214,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.5,
+    "chroma_stft": 205,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.93,
+    "chroma_stft": 414,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.35,
+    "chroma_stft": 176,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.94,
+    "chroma_stft": 113,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.79,
+    "chroma_stft": 360,
+    "rmse": 2.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.84,
+    "chroma_stft": 189,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.29,
+    "chroma_stft": 274,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.11,
+    "chroma_stft": 302,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.86,
+    "chroma_stft": 501,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.34,
+    "chroma_stft": 422,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.68,
+    "chroma_stft": 357,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.35,
+    "chroma_stft": 343,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.14,
+    "chroma_stft": 79,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.86,
+    "chroma_stft": 280,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.71,
+    "chroma_stft": 376,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.45,
+    "chroma_stft": 497,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.24,
+    "chroma_stft": 98,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.28,
+    "chroma_stft": 456,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.88,
+    "chroma_stft": 116,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.03,
+    "chroma_stft": 170,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.35,
+    "chroma_stft": 236,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.58,
+    "chroma_stft": 382,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.64,
+    "chroma_stft": 55,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.67,
+    "chroma_stft": 190,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.81,
+    "chroma_stft": 287,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.62,
+    "chroma_stft": 153,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.41,
+    "chroma_stft": 73,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.74,
+    "chroma_stft": 458,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.14,
+    "chroma_stft": 148,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.13,
+    "chroma_stft": 106,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.8,
+    "chroma_stft": 294,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.37,
+    "chroma_stft": 364,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.21,
+    "chroma_stft": 203,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.42,
+    "chroma_stft": 201,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.34,
+    "chroma_stft": 321,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.84,
+    "chroma_stft": 164,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.07,
+    "chroma_stft": 367,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.14,
+    "chroma_stft": 132,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.78,
+    "chroma_stft": 413,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.3,
+    "chroma_stft": 467,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.32,
+    "chroma_stft": 360,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 1.02,
+    "chroma_stft": 313,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.05,
+    "chroma_stft": 105,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.92,
+    "chroma_stft": 218,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.5,
+    "chroma_stft": 371,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.14,
+    "chroma_stft": 246,
+    "rmse": 1.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.96,
+    "chroma_stft": 336,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.08,
+    "chroma_stft": 314,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.43,
+    "chroma_stft": 252,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.96,
+    "chroma_stft": 246,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.69,
+    "chroma_stft": 171,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.29,
+    "chroma_stft": 385,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.62,
+    "chroma_stft": 90,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.93,
+    "chroma_stft": 421,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.48,
+    "chroma_stft": 344,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.51,
+    "chroma_stft": 449,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.19,
+    "chroma_stft": 53,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.78,
+    "chroma_stft": 38,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.51,
+    "chroma_stft": 331,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.79,
+    "chroma_stft": 455,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.16,
+    "chroma_stft": 431,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.92,
+    "chroma_stft": 54,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.15,
+    "chroma_stft": 54,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.58,
+    "chroma_stft": 217,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.01,
+    "chroma_stft": 390,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.05,
+    "chroma_stft": 250,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.15,
+    "chroma_stft": 326,
+    "rmse": 5.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.67,
+    "chroma_stft": 312,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.16,
+    "chroma_stft": 373,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.28,
+    "chroma_stft": 202,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.62,
+    "chroma_stft": 198,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.57,
+    "chroma_stft": 74,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.83,
+    "chroma_stft": 49,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.59,
+    "chroma_stft": 465,
+    "rmse": 1.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.56,
+    "chroma_stft": 148,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.03,
+    "chroma_stft": 367,
+    "rmse": 4.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.3,
+    "chroma_stft": 482,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.31,
+    "chroma_stft": 255,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.52,
+    "chroma_stft": 144,
+    "rmse": 4.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.27,
+    "chroma_stft": 279,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.38,
+    "chroma_stft": 100,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.94,
+    "chroma_stft": 426,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.84,
+    "chroma_stft": 451,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.15,
+    "chroma_stft": 296,
+    "rmse": 3.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.71,
+    "chroma_stft": 301,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.56,
+    "chroma_stft": 51,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.01,
+    "chroma_stft": 407,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.95,
+    "chroma_stft": 251,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 0.8,
+    "chroma_stft": 224,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.38,
+    "chroma_stft": 347,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.11,
+    "chroma_stft": 47,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.08,
+    "chroma_stft": 237,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.29,
+    "chroma_stft": 181,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.91,
+    "chroma_stft": 59,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.35,
+    "chroma_stft": 185,
+    "rmse": 0.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.91,
+    "chroma_stft": 165,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.99,
+    "chroma_stft": 478,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.2,
+    "chroma_stft": 400,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.63,
+    "chroma_stft": 120,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 0.63,
+    "chroma_stft": 65,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.66,
+    "chroma_stft": 501,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.74,
+    "chroma_stft": 421,
+    "rmse": 3.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.16,
+    "chroma_stft": 79,
+    "rmse": 2.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.09,
+    "chroma_stft": 216,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.37,
+    "chroma_stft": 168,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.05,
+    "chroma_stft": 502,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.63,
+    "chroma_stft": 321,
+    "rmse": 4.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.28,
+    "chroma_stft": 118,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.73,
+    "chroma_stft": 204,
+    "rmse": 2.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.64,
+    "chroma_stft": 321,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 1.27,
+    "chroma_stft": 186,
+    "rmse": 3.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.8,
+    "chroma_stft": 428,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.51,
+    "chroma_stft": 259,
+    "rmse": 2.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.91,
+    "chroma_stft": 287,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.98,
+    "chroma_stft": 87,
+    "rmse": 7.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.03,
+    "chroma_stft": 273,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.04,
+    "chroma_stft": 226,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.79,
+    "chroma_stft": 329,
+    "rmse": 6.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.84,
+    "chroma_stft": 390,
+    "rmse": 3.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.89,
+    "chroma_stft": 102,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.29,
+    "chroma_stft": 327,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.19,
+    "chroma_stft": 433,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.26,
+    "chroma_stft": 484,
+    "rmse": 1.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.29,
+    "chroma_stft": 250,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.78,
+    "chroma_stft": 453,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.94,
+    "chroma_stft": 63,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.74,
+    "chroma_stft": 297,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.15,
+    "chroma_stft": 66,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.61,
+    "chroma_stft": 296,
+    "rmse": 7.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.33,
+    "chroma_stft": 275,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.21,
+    "chroma_stft": 365,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 0.19,
+    "chroma_stft": 386,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.89,
+    "chroma_stft": 41,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.5,
+    "chroma_stft": 431,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.86,
+    "chroma_stft": 483,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.51,
+    "chroma_stft": 477,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.58,
+    "chroma_stft": 142,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 0.52,
+    "chroma_stft": 77,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.62,
+    "chroma_stft": 397,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.95,
+    "chroma_stft": 317,
+    "rmse": 2.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.1,
+    "chroma_stft": 51,
+    "rmse": 7.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 0.09,
+    "chroma_stft": 271,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.65,
+    "chroma_stft": 468,
+    "rmse": 6.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 0.31,
+    "chroma_stft": 392,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 0.11,
+    "chroma_stft": 126,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.83,
+    "chroma_stft": 495,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.53,
+    "chroma_stft": 482,
+    "rmse": 2.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 1.86,
+    "chroma_stft": 510,
+    "rmse": 7.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1999,
+    "beats": 1.93,
+    "chroma_stft": 135,
+    "rmse": 5.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.95,
+    "chroma_stft": 431,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 0.02,
+    "chroma_stft": 396,
+    "rmse": 2.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.82,
+    "chroma_stft": 284,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 0.59,
+    "chroma_stft": 321,
+    "rmse": 0.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.51,
+    "chroma_stft": 458,
+    "rmse": 6.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2004,
+    "beats": 0.19,
+    "chroma_stft": 284,
+    "rmse": 1.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2007,
+    "beats": 0.52,
+    "chroma_stft": 483,
+    "rmse": 1.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2002,
+    "beats": 0.98,
+    "chroma_stft": 77,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.69,
+    "chroma_stft": 265,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2000,
+    "beats": 1.05,
+    "chroma_stft": 210,
+    "rmse": 4.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2003,
+    "beats": 1.45,
+    "chroma_stft": 201,
+    "rmse": 1.25,
+    "spectral_centroid": 10,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2008,
+    "beats": 1.68,
+    "chroma_stft": 38,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2006,
+    "beats": 1.74,
+    "chroma_stft": 463,
+    "rmse": 1.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.26,
+    "chroma_stft": 368,
+    "rmse": 0.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2001,
+    "beats": 1.53,
+    "chroma_stft": 490,
+    "rmse": 5.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2009,
+    "beats": 1.47,
+    "chroma_stft": 115,
+    "rmse": 5.25,
+    "spectral_centroid": 8,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.02,
+    "chroma_stft": 214,
+    "rmse": 6.25,
+    "spectral_centroid": 11,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2005,
+    "beats": 1.83,
+    "chroma_stft": 85,
+    "rmse": 2.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 1998,
+    "beats": 1.04,
+    "chroma_stft": 227,
+    "rmse": 0.25,
+    "spectral_centroid": 9,
+    "spectral_bandwidth": 0,
+    "label": "Nokia"
+},
+{
+    "tempo": 2018,
+    "beats": 17.03,
+    "chroma_stft": 1404,
+    "rmse": 58.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 8.43,
+    "chroma_stft": 610,
+    "rmse": 23.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 18.65,
+    "chroma_stft": 3386,
+    "rmse": 1.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 12.69,
+    "chroma_stft": 2906,
+    "rmse": 20.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 6.34,
+    "chroma_stft": 3594,
+    "rmse": 4.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 7.73,
+    "chroma_stft": 2152,
+    "rmse": 3.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 18.65,
+    "chroma_stft": 1390,
+    "rmse": 11.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 1.1,
+    "chroma_stft": 454,
+    "rmse": 11.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 8.13,
+    "chroma_stft": 2081,
+    "rmse": 50.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 6.75,
+    "chroma_stft": 2234,
+    "rmse": 4.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 4.38,
+    "chroma_stft": 2712,
+    "rmse": 10.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 12.68,
+    "chroma_stft": 3481,
+    "rmse": 19.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 1.44,
+    "chroma_stft": 1913,
+    "rmse": 39.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 6.82,
+    "chroma_stft": 3090,
+    "rmse": 60.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 11.7,
+    "chroma_stft": 2842,
+    "rmse": 14.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 7.59,
+    "chroma_stft": 438,
+    "rmse": 37.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 4.91,
+    "chroma_stft": 391,
+    "rmse": 2.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 3.97,
+    "chroma_stft": 849,
+    "rmse": 46.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 0.79,
+    "chroma_stft": 1267,
+    "rmse": 0.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 11.14,
+    "chroma_stft": 1582,
+    "rmse": 51.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 7.64,
+    "chroma_stft": 1735,
+    "rmse": 19.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 13.78,
+    "chroma_stft": 3784,
+    "rmse": 37.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 19.77,
+    "chroma_stft": 504,
+    "rmse": 13.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 9.7,
+    "chroma_stft": 2591,
+    "rmse": 57.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 7.36,
+    "chroma_stft": 1912,
+    "rmse": 19.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 7.72,
+    "chroma_stft": 855,
+    "rmse": 36.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 1.75,
+    "chroma_stft": 3239,
+    "rmse": 2.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 8.2,
+    "chroma_stft": 3263,
+    "rmse": 14.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 16.72,
+    "chroma_stft": 1109,
+    "rmse": 27.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 7.98,
+    "chroma_stft": 195,
+    "rmse": 54.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 17.22,
+    "chroma_stft": 3324,
+    "rmse": 12.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 9.42,
+    "chroma_stft": 1629,
+    "rmse": 52.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 12.61,
+    "chroma_stft": 2435,
+    "rmse": 44.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 16.34,
+    "chroma_stft": 3569,
+    "rmse": 35.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 16.35,
+    "chroma_stft": 3605,
+    "rmse": 12.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 10.39,
+    "chroma_stft": 739,
+    "rmse": 57.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 14.38,
+    "chroma_stft": 3984,
+    "rmse": 10.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 8.87,
+    "chroma_stft": 3645,
+    "rmse": 7.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 13.83,
+    "chroma_stft": 1915,
+    "rmse": 55.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 7.93,
+    "chroma_stft": 2330,
+    "rmse": 13.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 16.76,
+    "chroma_stft": 2339,
+    "rmse": 48.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 15.64,
+    "chroma_stft": 4019,
+    "rmse": 55.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 19.93,
+    "chroma_stft": 749,
+    "rmse": 45.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 14.4,
+    "chroma_stft": 503,
+    "rmse": 53.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 19.1,
+    "chroma_stft": 3081,
+    "rmse": 46.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 10.1,
+    "chroma_stft": 1962,
+    "rmse": 58.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 4.93,
+    "chroma_stft": 476,
+    "rmse": 28.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 3.5,
+    "chroma_stft": 987,
+    "rmse": 48.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 7.97,
+    "chroma_stft": 2172,
+    "rmse": 56.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 7.48,
+    "chroma_stft": 1697,
+    "rmse": 36.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 3.77,
+    "chroma_stft": 542,
+    "rmse": 39.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 14.88,
+    "chroma_stft": 160,
+    "rmse": 40.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 14.5,
+    "chroma_stft": 376,
+    "rmse": 53.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 15.96,
+    "chroma_stft": 2316,
+    "rmse": 9.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 5.08,
+    "chroma_stft": 1040,
+    "rmse": 0.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 3.68,
+    "chroma_stft": 2973,
+    "rmse": 27.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 13.14,
+    "chroma_stft": 648,
+    "rmse": 16.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 10.88,
+    "chroma_stft": 3977,
+    "rmse": 30.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 4.43,
+    "chroma_stft": 2726,
+    "rmse": 20.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 19.53,
+    "chroma_stft": 1022,
+    "rmse": 63.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 12.59,
+    "chroma_stft": 2862,
+    "rmse": 16.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 5.91,
+    "chroma_stft": 287,
+    "rmse": 40.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 14.92,
+    "chroma_stft": 304,
+    "rmse": 40.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 11.6,
+    "chroma_stft": 2825,
+    "rmse": 11.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 7.43,
+    "chroma_stft": 3915,
+    "rmse": 37.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 16.38,
+    "chroma_stft": 1357,
+    "rmse": 21.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 8.08,
+    "chroma_stft": 571,
+    "rmse": 22.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 15.99,
+    "chroma_stft": 2177,
+    "rmse": 45.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 16.67,
+    "chroma_stft": 1891,
+    "rmse": 56.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 14.28,
+    "chroma_stft": 2987,
+    "rmse": 39.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 4.6,
+    "chroma_stft": 1661,
+    "rmse": 27.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 17.17,
+    "chroma_stft": 3908,
+    "rmse": 6.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 3.33,
+    "chroma_stft": 3294,
+    "rmse": 23.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 14.49,
+    "chroma_stft": 3396,
+    "rmse": 6.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 5.16,
+    "chroma_stft": 704,
+    "rmse": 49.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 15.63,
+    "chroma_stft": 2497,
+    "rmse": 49.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 4.59,
+    "chroma_stft": 989,
+    "rmse": 21.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 2.78,
+    "chroma_stft": 3536,
+    "rmse": 14.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 1.7,
+    "chroma_stft": 2481,
+    "rmse": 23.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 16.44,
+    "chroma_stft": 1559,
+    "rmse": 25.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 10.53,
+    "chroma_stft": 433,
+    "rmse": 11.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 12.99,
+    "chroma_stft": 1575,
+    "rmse": 57.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 12.65,
+    "chroma_stft": 260,
+    "rmse": 60.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 16.83,
+    "chroma_stft": 1492,
+    "rmse": 1.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 2.41,
+    "chroma_stft": 238,
+    "rmse": 9.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 16.96,
+    "chroma_stft": 3548,
+    "rmse": 55.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 11.62,
+    "chroma_stft": 1951,
+    "rmse": 48.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 1.2,
+    "chroma_stft": 254,
+    "rmse": 14.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 10.21,
+    "chroma_stft": 2130,
+    "rmse": 4.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 7.55,
+    "chroma_stft": 1406,
+    "rmse": 12.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 7.98,
+    "chroma_stft": 336,
+    "rmse": 0.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 12.56,
+    "chroma_stft": 988,
+    "rmse": 13.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 17.9,
+    "chroma_stft": 2873,
+    "rmse": 35.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 11.92,
+    "chroma_stft": 372,
+    "rmse": 52.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 18.25,
+    "chroma_stft": 1462,
+    "rmse": 40.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 11.2,
+    "chroma_stft": 1423,
+    "rmse": 61.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 15.07,
+    "chroma_stft": 3937,
+    "rmse": 37.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 18.82,
+    "chroma_stft": 2511,
+    "rmse": 44.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 16.52,
+    "chroma_stft": 2911,
+    "rmse": 0.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 17.23,
+    "chroma_stft": 414,
+    "rmse": 15.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 12.74,
+    "chroma_stft": 1088,
+    "rmse": 13.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 9.36,
+    "chroma_stft": 989,
+    "rmse": 57.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 15.08,
+    "chroma_stft": 2697,
+    "rmse": 27.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 15.61,
+    "chroma_stft": 1098,
+    "rmse": 24.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 7.11,
+    "chroma_stft": 871,
+    "rmse": 60.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 9.99,
+    "chroma_stft": 2119,
+    "rmse": 26.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 12.05,
+    "chroma_stft": 3850,
+    "rmse": 19.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 14.81,
+    "chroma_stft": 3179,
+    "rmse": 36.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 16.6,
+    "chroma_stft": 1924,
+    "rmse": 31.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 13.52,
+    "chroma_stft": 2756,
+    "rmse": 2.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 6.91,
+    "chroma_stft": 2576,
+    "rmse": 35.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 19.9,
+    "chroma_stft": 2290,
+    "rmse": 39.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 19.39,
+    "chroma_stft": 2634,
+    "rmse": 51.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 4.34,
+    "chroma_stft": 2777,
+    "rmse": 36.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 14.88,
+    "chroma_stft": 3916,
+    "rmse": 36.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 3.44,
+    "chroma_stft": 225,
+    "rmse": 58.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 1.53,
+    "chroma_stft": 1198,
+    "rmse": 49.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 13.81,
+    "chroma_stft": 3703,
+    "rmse": 12.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 5.79,
+    "chroma_stft": 3970,
+    "rmse": 57.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 16.62,
+    "chroma_stft": 2194,
+    "rmse": 24.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 5.05,
+    "chroma_stft": 2209,
+    "rmse": 12.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 9.07,
+    "chroma_stft": 3624,
+    "rmse": 11.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 9.8,
+    "chroma_stft": 369,
+    "rmse": 37.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 17.45,
+    "chroma_stft": 3055,
+    "rmse": 0.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 5.82,
+    "chroma_stft": 1393,
+    "rmse": 58.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 6.76,
+    "chroma_stft": 1484,
+    "rmse": 11.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 8.85,
+    "chroma_stft": 2040,
+    "rmse": 20.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 10.52,
+    "chroma_stft": 3848,
+    "rmse": 11.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 10.72,
+    "chroma_stft": 197,
+    "rmse": 21.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 14.48,
+    "chroma_stft": 791,
+    "rmse": 3.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 3.97,
+    "chroma_stft": 623,
+    "rmse": 20.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 4.27,
+    "chroma_stft": 365,
+    "rmse": 4.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 7.11,
+    "chroma_stft": 3683,
+    "rmse": 22.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 1.23,
+    "chroma_stft": 1865,
+    "rmse": 35.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 6.57,
+    "chroma_stft": 1511,
+    "rmse": 56.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 12.97,
+    "chroma_stft": 1770,
+    "rmse": 7.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 16.7,
+    "chroma_stft": 265,
+    "rmse": 40.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 17.21,
+    "chroma_stft": 444,
+    "rmse": 60.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 4.54,
+    "chroma_stft": 3405,
+    "rmse": 8.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 8.97,
+    "chroma_stft": 2073,
+    "rmse": 2.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 3.04,
+    "chroma_stft": 925,
+    "rmse": 38.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 0.85,
+    "chroma_stft": 4024,
+    "rmse": 3.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 11.77,
+    "chroma_stft": 3991,
+    "rmse": 16.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 10.8,
+    "chroma_stft": 3318,
+    "rmse": 34.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 7.15,
+    "chroma_stft": 1828,
+    "rmse": 9.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 6.39,
+    "chroma_stft": 659,
+    "rmse": 14.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 11.72,
+    "chroma_stft": 1560,
+    "rmse": 54.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 9.53,
+    "chroma_stft": 904,
+    "rmse": 28.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 10.47,
+    "chroma_stft": 1615,
+    "rmse": 59.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 8.89,
+    "chroma_stft": 2721,
+    "rmse": 11.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 9.61,
+    "chroma_stft": 1339,
+    "rmse": 48.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 8.87,
+    "chroma_stft": 1202,
+    "rmse": 30.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 8.75,
+    "chroma_stft": 1663,
+    "rmse": 13.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 15.78,
+    "chroma_stft": 1756,
+    "rmse": 26.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 18.82,
+    "chroma_stft": 4033,
+    "rmse": 62.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 18.13,
+    "chroma_stft": 3403,
+    "rmse": 38.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 19.58,
+    "chroma_stft": 3782,
+    "rmse": 59.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 11.56,
+    "chroma_stft": 679,
+    "rmse": 57.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 18.86,
+    "chroma_stft": 1340,
+    "rmse": 42.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 17.42,
+    "chroma_stft": 1630,
+    "rmse": 54.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 1.55,
+    "chroma_stft": 2100,
+    "rmse": 14.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 12.2,
+    "chroma_stft": 2727,
+    "rmse": 42.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 5.43,
+    "chroma_stft": 3738,
+    "rmse": 45.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 5.6,
+    "chroma_stft": 1483,
+    "rmse": 20.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 7.29,
+    "chroma_stft": 1307,
+    "rmse": 12.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 10.72,
+    "chroma_stft": 933,
+    "rmse": 5.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 4.4,
+    "chroma_stft": 2578,
+    "rmse": 47.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 17.88,
+    "chroma_stft": 1746,
+    "rmse": 62.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 10.58,
+    "chroma_stft": 817,
+    "rmse": 5.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 6.42,
+    "chroma_stft": 2229,
+    "rmse": 49.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 15.49,
+    "chroma_stft": 2038,
+    "rmse": 62.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 13.57,
+    "chroma_stft": 3844,
+    "rmse": 36.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 8.51,
+    "chroma_stft": 829,
+    "rmse": 3.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 18.32,
+    "chroma_stft": 1148,
+    "rmse": 47.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 17.56,
+    "chroma_stft": 1212,
+    "rmse": 6.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 9.86,
+    "chroma_stft": 2002,
+    "rmse": 35.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 15.74,
+    "chroma_stft": 1358,
+    "rmse": 63.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 14.54,
+    "chroma_stft": 345,
+    "rmse": 47.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 15.04,
+    "chroma_stft": 1537,
+    "rmse": 17.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 19.72,
+    "chroma_stft": 2670,
+    "rmse": 28.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 0.53,
+    "chroma_stft": 3672,
+    "rmse": 2.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 14.26,
+    "chroma_stft": 755,
+    "rmse": 11.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 6.66,
+    "chroma_stft": 970,
+    "rmse": 14.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 13.59,
+    "chroma_stft": 1154,
+    "rmse": 55.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 8.66,
+    "chroma_stft": 185,
+    "rmse": 22.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 11.86,
+    "chroma_stft": 2748,
+    "rmse": 11.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 11.21,
+    "chroma_stft": 1892,
+    "rmse": 34.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 1.27,
+    "chroma_stft": 3332,
+    "rmse": 62.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 4.98,
+    "chroma_stft": 3658,
+    "rmse": 2.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 18.6,
+    "chroma_stft": 1717,
+    "rmse": 1.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 8.82,
+    "chroma_stft": 3540,
+    "rmse": 40.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 14.43,
+    "chroma_stft": 3187,
+    "rmse": 61.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 4.89,
+    "chroma_stft": 2626,
+    "rmse": 42.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 18.87,
+    "chroma_stft": 3333,
+    "rmse": 27.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 5.43,
+    "chroma_stft": 1745,
+    "rmse": 53.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 14,
+    "chroma_stft": 1446,
+    "rmse": 50.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 13.13,
+    "chroma_stft": 251,
+    "rmse": 2.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 17.32,
+    "chroma_stft": 1758,
+    "rmse": 26.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 6.4,
+    "chroma_stft": 2409,
+    "rmse": 50.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 16.48,
+    "chroma_stft": 2207,
+    "rmse": 40.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 16.71,
+    "chroma_stft": 1559,
+    "rmse": 19.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 12.24,
+    "chroma_stft": 3100,
+    "rmse": 3.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 14.9,
+    "chroma_stft": 3124,
+    "rmse": 28.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 16.94,
+    "chroma_stft": 3192,
+    "rmse": 27.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 13.47,
+    "chroma_stft": 1327,
+    "rmse": 51.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 1.66,
+    "chroma_stft": 2005,
+    "rmse": 57.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 11.23,
+    "chroma_stft": 1553,
+    "rmse": 0.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 9.91,
+    "chroma_stft": 2207,
+    "rmse": 6.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 14.89,
+    "chroma_stft": 1282,
+    "rmse": 6.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 4.81,
+    "chroma_stft": 3752,
+    "rmse": 47.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 16.43,
+    "chroma_stft": 1210,
+    "rmse": 53.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 9.71,
+    "chroma_stft": 802,
+    "rmse": 12.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 7.41,
+    "chroma_stft": 2259,
+    "rmse": 1.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 18.53,
+    "chroma_stft": 3842,
+    "rmse": 2.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 18.32,
+    "chroma_stft": 904,
+    "rmse": 21.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 17.8,
+    "chroma_stft": 1214,
+    "rmse": 4.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 2.17,
+    "chroma_stft": 821,
+    "rmse": 55.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 18.02,
+    "chroma_stft": 303,
+    "rmse": 36.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 19.59,
+    "chroma_stft": 512,
+    "rmse": 43.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 2.47,
+    "chroma_stft": 3921,
+    "rmse": 56.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 0.87,
+    "chroma_stft": 356,
+    "rmse": 11.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 8.13,
+    "chroma_stft": 1533,
+    "rmse": 61.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 16.69,
+    "chroma_stft": 2439,
+    "rmse": 15.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 2.55,
+    "chroma_stft": 3153,
+    "rmse": 23.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 3.02,
+    "chroma_stft": 714,
+    "rmse": 44.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 13.9,
+    "chroma_stft": 903,
+    "rmse": 2.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 6.77,
+    "chroma_stft": 2246,
+    "rmse": 42.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 17.27,
+    "chroma_stft": 1159,
+    "rmse": 53.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 2.24,
+    "chroma_stft": 2578,
+    "rmse": 42.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 7.34,
+    "chroma_stft": 334,
+    "rmse": 37.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 19.87,
+    "chroma_stft": 1047,
+    "rmse": 30.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 7.27,
+    "chroma_stft": 2416,
+    "rmse": 8.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 9.22,
+    "chroma_stft": 2487,
+    "rmse": 34.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 12.25,
+    "chroma_stft": 2338,
+    "rmse": 62.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 2.38,
+    "chroma_stft": 381,
+    "rmse": 43.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 5.12,
+    "chroma_stft": 1886,
+    "rmse": 41.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 13.01,
+    "chroma_stft": 903,
+    "rmse": 63.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 1.62,
+    "chroma_stft": 3003,
+    "rmse": 5.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 9.51,
+    "chroma_stft": 1830,
+    "rmse": 20.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 1.77,
+    "chroma_stft": 1308,
+    "rmse": 2.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 16.55,
+    "chroma_stft": 1115,
+    "rmse": 40.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 15.12,
+    "chroma_stft": 3495,
+    "rmse": 22.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 9.24,
+    "chroma_stft": 1640,
+    "rmse": 35.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 13.58,
+    "chroma_stft": 2205,
+    "rmse": 15.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 19.22,
+    "chroma_stft": 3759,
+    "rmse": 59.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 17.85,
+    "chroma_stft": 1979,
+    "rmse": 62.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 4.85,
+    "chroma_stft": 136,
+    "rmse": 48.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 10.74,
+    "chroma_stft": 1076,
+    "rmse": 22.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 15.41,
+    "chroma_stft": 1388,
+    "rmse": 56.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 10.2,
+    "chroma_stft": 2399,
+    "rmse": 6.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 16.55,
+    "chroma_stft": 135,
+    "rmse": 28.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 15.9,
+    "chroma_stft": 1554,
+    "rmse": 50.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 7.36,
+    "chroma_stft": 1190,
+    "rmse": 55.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 17.93,
+    "chroma_stft": 1886,
+    "rmse": 43.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 8.89,
+    "chroma_stft": 2688,
+    "rmse": 41.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 13.87,
+    "chroma_stft": 3599,
+    "rmse": 6.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 2.45,
+    "chroma_stft": 389,
+    "rmse": 17.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 1.38,
+    "chroma_stft": 3693,
+    "rmse": 30.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2004,
+    "beats": 2.85,
+    "chroma_stft": 3184,
+    "rmse": 63.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 5.59,
+    "chroma_stft": 3291,
+    "rmse": 37.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 9.34,
+    "chroma_stft": 3405,
+    "rmse": 9.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2008,
+    "beats": 15,
+    "chroma_stft": 431,
+    "rmse": 15.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 18.47,
+    "chroma_stft": 3257,
+    "rmse": 29.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 15.83,
+    "chroma_stft": 434,
+    "rmse": 21.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 16.13,
+    "chroma_stft": 404,
+    "rmse": 29.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 0.7,
+    "chroma_stft": 37,
+    "rmse": 52.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 2.47,
+    "chroma_stft": 3612,
+    "rmse": 21.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 11.64,
+    "chroma_stft": 3191,
+    "rmse": 39.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 8.99,
+    "chroma_stft": 1887,
+    "rmse": 7.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2011,
+    "beats": 9.36,
+    "chroma_stft": 1414,
+    "rmse": 12.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2001,
+    "beats": 9.8,
+    "chroma_stft": 3140,
+    "rmse": 18.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 9.63,
+    "chroma_stft": 921,
+    "rmse": 24.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2000,
+    "beats": 4.18,
+    "chroma_stft": 3405,
+    "rmse": 47.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 18.37,
+    "chroma_stft": 2076,
+    "rmse": 44.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2016,
+    "beats": 7.68,
+    "chroma_stft": 3101,
+    "rmse": 32.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2002,
+    "beats": 6.14,
+    "chroma_stft": 3233,
+    "rmse": 1.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 5.51,
+    "chroma_stft": 3582,
+    "rmse": 59.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 4.62,
+    "chroma_stft": 509,
+    "rmse": 29.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 18.5,
+    "chroma_stft": 87,
+    "rmse": 58.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 4.49,
+    "chroma_stft": 3446,
+    "rmse": 25.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 17.09,
+    "chroma_stft": 3733,
+    "rmse": 18.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2013,
+    "beats": 17.02,
+    "chroma_stft": 181,
+    "rmse": 24.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2014,
+    "beats": 9.23,
+    "chroma_stft": 3708,
+    "rmse": 42.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2006,
+    "beats": 1.3,
+    "chroma_stft": 425,
+    "rmse": 43.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 14.26,
+    "chroma_stft": 588,
+    "rmse": 39.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 11.27,
+    "chroma_stft": 1969,
+    "rmse": 18.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 12.14,
+    "chroma_stft": 2825,
+    "rmse": 49.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 0.76,
+    "chroma_stft": 1621,
+    "rmse": 26.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2007,
+    "beats": 6.36,
+    "chroma_stft": 111,
+    "rmse": 15.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 11.81,
+    "chroma_stft": 766,
+    "rmse": 18.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2003,
+    "beats": 5.22,
+    "chroma_stft": 1872,
+    "rmse": 37.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2010,
+    "beats": 5.33,
+    "chroma_stft": 2095,
+    "rmse": 20.5,
+    "spectral_centroid": 7,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 11.28,
+    "chroma_stft": 1129,
+    "rmse": 39.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2005,
+    "beats": 10.58,
+    "chroma_stft": 1482,
+    "rmse": 55.5,
+    "spectral_centroid": 6,
+    "spectral_bandwidth": 0,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 18.61,
+    "chroma_stft": 1596,
+    "rmse": 25.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2009,
+    "beats": 19.94,
+    "chroma_stft": 3989,
+    "rmse": 26.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 11.66,
+    "chroma_stft": 343,
+    "rmse": 13.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2015,
+    "beats": 16.14,
+    "chroma_stft": 4042,
+    "rmse": 16.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2017,
+    "beats": 4.66,
+    "chroma_stft": 2388,
+    "rmse": 23.5,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2018,
+    "beats": 18.13,
+    "chroma_stft": 3025,
+    "rmse": 48.5,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Samsung"
+},
+{
+    "tempo": 2012,
+    "beats": 6.76,
+    "chroma_stft": 4104,
+    "rmse": 34,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 10.27,
+    "chroma_stft": 11954,
+    "rmse": 20,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 1.49,
+    "chroma_stft": 894,
+    "rmse": 71,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 5,
+    "chroma_stft": 8708,
+    "rmse": 70,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 9.56,
+    "chroma_stft": 13070,
+    "rmse": 59,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 12.07,
+    "chroma_stft": 12449,
+    "rmse": 14,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 15.23,
+    "chroma_stft": 3592,
+    "rmse": 17,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 13.4,
+    "chroma_stft": 3569,
+    "rmse": 17,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 2.97,
+    "chroma_stft": 14452,
+    "rmse": 11,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 9.67,
+    "chroma_stft": 13104,
+    "rmse": 67,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 7.41,
+    "chroma_stft": 14847,
+    "rmse": 47,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 14.05,
+    "chroma_stft": 7634,
+    "rmse": 32,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 13.1,
+    "chroma_stft": 6343,
+    "rmse": 10,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 3.55,
+    "chroma_stft": 11874,
+    "rmse": 36,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 2.59,
+    "chroma_stft": 16189,
+    "rmse": 47,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 14.64,
+    "chroma_stft": 5984,
+    "rmse": 10,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 11.6,
+    "chroma_stft": 16477,
+    "rmse": 43,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 9.04,
+    "chroma_stft": 6693,
+    "rmse": 15,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 14.33,
+    "chroma_stft": 5762,
+    "rmse": 38,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 2.71,
+    "chroma_stft": 14773,
+    "rmse": 57,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 6.37,
+    "chroma_stft": 1049,
+    "rmse": 11,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 1.1,
+    "chroma_stft": 13540,
+    "rmse": 32,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 11.35,
+    "chroma_stft": 16232,
+    "rmse": 21,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 7.12,
+    "chroma_stft": 7712,
+    "rmse": 39,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 10.22,
+    "chroma_stft": 1166,
+    "rmse": 38,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 1.98,
+    "chroma_stft": 1081,
+    "rmse": 27,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 3.21,
+    "chroma_stft": 1636,
+    "rmse": 28,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 10.19,
+    "chroma_stft": 3940,
+    "rmse": 61,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 8.46,
+    "chroma_stft": 13460,
+    "rmse": 22,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 6.53,
+    "chroma_stft": 14062,
+    "rmse": 52,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 1.36,
+    "chroma_stft": 718,
+    "rmse": 44,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 14.57,
+    "chroma_stft": 4519,
+    "rmse": 38,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 6.6,
+    "chroma_stft": 9048,
+    "rmse": 16,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 2.17,
+    "chroma_stft": 12593,
+    "rmse": 25,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 15.75,
+    "chroma_stft": 1290,
+    "rmse": 67,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 3.45,
+    "chroma_stft": 1709,
+    "rmse": 16,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 13.26,
+    "chroma_stft": 1751,
+    "rmse": 70,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 2.88,
+    "chroma_stft": 604,
+    "rmse": 67,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 7.6,
+    "chroma_stft": 7201,
+    "rmse": 44,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 5.19,
+    "chroma_stft": 15779,
+    "rmse": 8,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 1.15,
+    "chroma_stft": 14478,
+    "rmse": 52,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 14.32,
+    "chroma_stft": 15278,
+    "rmse": 52,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 2.27,
+    "chroma_stft": 3513,
+    "rmse": 38,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 4.36,
+    "chroma_stft": 10601,
+    "rmse": 21,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 8.18,
+    "chroma_stft": 2214,
+    "rmse": 30,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 14.36,
+    "chroma_stft": 4272,
+    "rmse": 31,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 5.47,
+    "chroma_stft": 2647,
+    "rmse": 37,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 16.61,
+    "chroma_stft": 7378,
+    "rmse": 40,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 8.49,
+    "chroma_stft": 12928,
+    "rmse": 47,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 0.9,
+    "chroma_stft": 13620,
+    "rmse": 22,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 3.17,
+    "chroma_stft": 3174,
+    "rmse": 23,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 3.74,
+    "chroma_stft": 14206,
+    "rmse": 41,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 2.55,
+    "chroma_stft": 12582,
+    "rmse": 30,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 4.68,
+    "chroma_stft": 9575,
+    "rmse": 53,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 10.45,
+    "chroma_stft": 14883,
+    "rmse": 56,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 11.79,
+    "chroma_stft": 4514,
+    "rmse": 53,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 8.53,
+    "chroma_stft": 15394,
+    "rmse": 12,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 9.25,
+    "chroma_stft": 16234,
+    "rmse": 67,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 14.3,
+    "chroma_stft": 14966,
+    "rmse": 41,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 0.69,
+    "chroma_stft": 7617,
+    "rmse": 22,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 11.64,
+    "chroma_stft": 1910,
+    "rmse": 67,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 14.57,
+    "chroma_stft": 7411,
+    "rmse": 51,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 10.26,
+    "chroma_stft": 9736,
+    "rmse": 45,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 5.68,
+    "chroma_stft": 1951,
+    "rmse": 58,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 11.78,
+    "chroma_stft": 14246,
+    "rmse": 67,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 5.57,
+    "chroma_stft": 10192,
+    "rmse": 66,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 4.11,
+    "chroma_stft": 13941,
+    "rmse": 11,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 2.47,
+    "chroma_stft": 8672,
+    "rmse": 57,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 13.19,
+    "chroma_stft": 11234,
+    "rmse": 71,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 6.84,
+    "chroma_stft": 6497,
+    "rmse": 31,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 9.28,
+    "chroma_stft": 8906,
+    "rmse": 28,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 2.39,
+    "chroma_stft": 13634,
+    "rmse": 19,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 8.64,
+    "chroma_stft": 3380,
+    "rmse": 56,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 14.21,
+    "chroma_stft": 876,
+    "rmse": 67,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 4.82,
+    "chroma_stft": 2325,
+    "rmse": 8,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 1.04,
+    "chroma_stft": 1936,
+    "rmse": 63,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 11.07,
+    "chroma_stft": 14302,
+    "rmse": 17,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 11.46,
+    "chroma_stft": 12508,
+    "rmse": 66,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 0.55,
+    "chroma_stft": 8625,
+    "rmse": 38,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 14.75,
+    "chroma_stft": 3943,
+    "rmse": 62,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 5.56,
+    "chroma_stft": 14817,
+    "rmse": 58,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 12.39,
+    "chroma_stft": 16060,
+    "rmse": 25,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 5.9,
+    "chroma_stft": 6454,
+    "rmse": 24,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 5.89,
+    "chroma_stft": 2153,
+    "rmse": 10,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 1.54,
+    "chroma_stft": 12517,
+    "rmse": 45,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 4.97,
+    "chroma_stft": 4120,
+    "rmse": 31,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 12.63,
+    "chroma_stft": 14129,
+    "rmse": 53,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 16.52,
+    "chroma_stft": 4405,
+    "rmse": 69,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 13.87,
+    "chroma_stft": 16300,
+    "rmse": 45,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 15.91,
+    "chroma_stft": 3500,
+    "rmse": 29,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 16.59,
+    "chroma_stft": 2292,
+    "rmse": 71,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 7.88,
+    "chroma_stft": 7929,
+    "rmse": 10,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 11.99,
+    "chroma_stft": 5874,
+    "rmse": 20,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 8.61,
+    "chroma_stft": 2169,
+    "rmse": 30,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 14.31,
+    "chroma_stft": 14949,
+    "rmse": 53,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 11.5,
+    "chroma_stft": 3327,
+    "rmse": 16,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 13.65,
+    "chroma_stft": 7966,
+    "rmse": 30,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 10.29,
+    "chroma_stft": 12795,
+    "rmse": 28,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 1.41,
+    "chroma_stft": 4496,
+    "rmse": 53,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 9,
+    "chroma_stft": 16103,
+    "rmse": 11,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 14.86,
+    "chroma_stft": 7479,
+    "rmse": 35,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 7.23,
+    "chroma_stft": 9565,
+    "rmse": 50,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 1.69,
+    "chroma_stft": 714,
+    "rmse": 32,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 2.62,
+    "chroma_stft": 15156,
+    "rmse": 60,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 4.7,
+    "chroma_stft": 9020,
+    "rmse": 40,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 6.08,
+    "chroma_stft": 8568,
+    "rmse": 69,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 11.86,
+    "chroma_stft": 3935,
+    "rmse": 69,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 8.5,
+    "chroma_stft": 8579,
+    "rmse": 33,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 12.44,
+    "chroma_stft": 2092,
+    "rmse": 52,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 4.95,
+    "chroma_stft": 11917,
+    "rmse": 37,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 12.26,
+    "chroma_stft": 16377,
+    "rmse": 54,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 8.19,
+    "chroma_stft": 11110,
+    "rmse": 11,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 10.95,
+    "chroma_stft": 8200,
+    "rmse": 38,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 14.38,
+    "chroma_stft": 6406,
+    "rmse": 67,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 13.6,
+    "chroma_stft": 829,
+    "rmse": 19,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 13.02,
+    "chroma_stft": 11853,
+    "rmse": 67,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 2.7,
+    "chroma_stft": 587,
+    "rmse": 59,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 16.11,
+    "chroma_stft": 6740,
+    "rmse": 52,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 8.79,
+    "chroma_stft": 12795,
+    "rmse": 28,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 8.36,
+    "chroma_stft": 11213,
+    "rmse": 34,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 13.44,
+    "chroma_stft": 6797,
+    "rmse": 30,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 10.07,
+    "chroma_stft": 2251,
+    "rmse": 33,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 9.68,
+    "chroma_stft": 1976,
+    "rmse": 50,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 14.94,
+    "chroma_stft": 1506,
+    "rmse": 58,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 10.19,
+    "chroma_stft": 6614,
+    "rmse": 8,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 15.02,
+    "chroma_stft": 11688,
+    "rmse": 17,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 9.93,
+    "chroma_stft": 13021,
+    "rmse": 16,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 9.29,
+    "chroma_stft": 2254,
+    "rmse": 28,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 16.74,
+    "chroma_stft": 13191,
+    "rmse": 61,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 4.27,
+    "chroma_stft": 7907,
+    "rmse": 57,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 2.99,
+    "chroma_stft": 14971,
+    "rmse": 13,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 9.35,
+    "chroma_stft": 12238,
+    "rmse": 57,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 12.33,
+    "chroma_stft": 2543,
+    "rmse": 40,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 6.08,
+    "chroma_stft": 11450,
+    "rmse": 66,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 4.09,
+    "chroma_stft": 14495,
+    "rmse": 20,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 8.59,
+    "chroma_stft": 2474,
+    "rmse": 62,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 0.64,
+    "chroma_stft": 5203,
+    "rmse": 69,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 4.86,
+    "chroma_stft": 11098,
+    "rmse": 9,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 7.23,
+    "chroma_stft": 15197,
+    "rmse": 30,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 5.59,
+    "chroma_stft": 12324,
+    "rmse": 17,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 10.62,
+    "chroma_stft": 15801,
+    "rmse": 45,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 9.21,
+    "chroma_stft": 1981,
+    "rmse": 58,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 1.22,
+    "chroma_stft": 14656,
+    "rmse": 10,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 16.54,
+    "chroma_stft": 6203,
+    "rmse": 52,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 15.17,
+    "chroma_stft": 7295,
+    "rmse": 30,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 9.98,
+    "chroma_stft": 3758,
+    "rmse": 61,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 8.72,
+    "chroma_stft": 14258,
+    "rmse": 66,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 11.9,
+    "chroma_stft": 4944,
+    "rmse": 60,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 1.75,
+    "chroma_stft": 14057,
+    "rmse": 51,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 8.41,
+    "chroma_stft": 7163,
+    "rmse": 67,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 8.79,
+    "chroma_stft": 977,
+    "rmse": 40,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 1.68,
+    "chroma_stft": 7548,
+    "rmse": 22,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 10.42,
+    "chroma_stft": 2964,
+    "rmse": 55,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 13.6,
+    "chroma_stft": 5052,
+    "rmse": 23,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 10.91,
+    "chroma_stft": 1951,
+    "rmse": 36,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 2.78,
+    "chroma_stft": 4481,
+    "rmse": 10,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 12.75,
+    "chroma_stft": 13976,
+    "rmse": 21,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 1.83,
+    "chroma_stft": 15691,
+    "rmse": 68,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 14.52,
+    "chroma_stft": 15458,
+    "rmse": 12,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 2.61,
+    "chroma_stft": 7528,
+    "rmse": 50,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 13.81,
+    "chroma_stft": 16658,
+    "rmse": 42,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 15.39,
+    "chroma_stft": 5668,
+    "rmse": 51,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 4.66,
+    "chroma_stft": 1168,
+    "rmse": 27,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 1.13,
+    "chroma_stft": 14814,
+    "rmse": 57,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 10.76,
+    "chroma_stft": 2989,
+    "rmse": 55,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 15.61,
+    "chroma_stft": 12762,
+    "rmse": 68,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 5.46,
+    "chroma_stft": 7897,
+    "rmse": 17,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 16.07,
+    "chroma_stft": 15543,
+    "rmse": 24,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 4.07,
+    "chroma_stft": 16171,
+    "rmse": 59,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 0.55,
+    "chroma_stft": 529,
+    "rmse": 68,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 16.8,
+    "chroma_stft": 15985,
+    "rmse": 49,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 2.15,
+    "chroma_stft": 13810,
+    "rmse": 46,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 13.68,
+    "chroma_stft": 16011,
+    "rmse": 56,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 11.73,
+    "chroma_stft": 15620,
+    "rmse": 9,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 15.64,
+    "chroma_stft": 16267,
+    "rmse": 36,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 16.69,
+    "chroma_stft": 11646,
+    "rmse": 64,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 14.35,
+    "chroma_stft": 4781,
+    "rmse": 56,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 2.08,
+    "chroma_stft": 1633,
+    "rmse": 58,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 12.81,
+    "chroma_stft": 6567,
+    "rmse": 45,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 8.87,
+    "chroma_stft": 14468,
+    "rmse": 19,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 1.89,
+    "chroma_stft": 5409,
+    "rmse": 56,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 13.18,
+    "chroma_stft": 14187,
+    "rmse": 23,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 4.71,
+    "chroma_stft": 1934,
+    "rmse": 27,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 1.94,
+    "chroma_stft": 9018,
+    "rmse": 12,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 1.96,
+    "chroma_stft": 15536,
+    "rmse": 22,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 15.6,
+    "chroma_stft": 3808,
+    "rmse": 36,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 7.02,
+    "chroma_stft": 12493,
+    "rmse": 18,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 8.93,
+    "chroma_stft": 5781,
+    "rmse": 39,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 15,
+    "chroma_stft": 8117,
+    "rmse": 41,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 6.38,
+    "chroma_stft": 1523,
+    "rmse": 17,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 12.18,
+    "chroma_stft": 8788,
+    "rmse": 45,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 11.18,
+    "chroma_stft": 6521,
+    "rmse": 29,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 9.61,
+    "chroma_stft": 12778,
+    "rmse": 60,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 4.96,
+    "chroma_stft": 9081,
+    "rmse": 63,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 14,
+    "chroma_stft": 9339,
+    "rmse": 11,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 5.77,
+    "chroma_stft": 7860,
+    "rmse": 40,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 13.88,
+    "chroma_stft": 2973,
+    "rmse": 54,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 3.4,
+    "chroma_stft": 6354,
+    "rmse": 13,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 3.37,
+    "chroma_stft": 15295,
+    "rmse": 64,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 13.62,
+    "chroma_stft": 1790,
+    "rmse": 69,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 1.32,
+    "chroma_stft": 11862,
+    "rmse": 43,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 12.1,
+    "chroma_stft": 12726,
+    "rmse": 33,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 14.38,
+    "chroma_stft": 6223,
+    "rmse": 44,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 4.84,
+    "chroma_stft": 14934,
+    "rmse": 55,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 16.21,
+    "chroma_stft": 3761,
+    "rmse": 52,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 15.64,
+    "chroma_stft": 13610,
+    "rmse": 40,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 0.83,
+    "chroma_stft": 3546,
+    "rmse": 26,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 11.29,
+    "chroma_stft": 8380,
+    "rmse": 38,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 2.76,
+    "chroma_stft": 9311,
+    "rmse": 43,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 6.63,
+    "chroma_stft": 16554,
+    "rmse": 37,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 9.12,
+    "chroma_stft": 13683,
+    "rmse": 65,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 4.41,
+    "chroma_stft": 4708,
+    "rmse": 30,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 15.57,
+    "chroma_stft": 10089,
+    "rmse": 65,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 6.68,
+    "chroma_stft": 6429,
+    "rmse": 35,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 12.62,
+    "chroma_stft": 6308,
+    "rmse": 58,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 4.98,
+    "chroma_stft": 9865,
+    "rmse": 30,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 6.47,
+    "chroma_stft": 11156,
+    "rmse": 28,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 1.51,
+    "chroma_stft": 15353,
+    "rmse": 49,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 8.78,
+    "chroma_stft": 6718,
+    "rmse": 58,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 9.77,
+    "chroma_stft": 4738,
+    "rmse": 8,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 5.86,
+    "chroma_stft": 12082,
+    "rmse": 48,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 1.83,
+    "chroma_stft": 14750,
+    "rmse": 26,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 13.31,
+    "chroma_stft": 5260,
+    "rmse": 40,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 11.12,
+    "chroma_stft": 5568,
+    "rmse": 50,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 6.78,
+    "chroma_stft": 7453,
+    "rmse": 40,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 9.4,
+    "chroma_stft": 12659,
+    "rmse": 21,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 11.38,
+    "chroma_stft": 15471,
+    "rmse": 24,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 4.28,
+    "chroma_stft": 10808,
+    "rmse": 17,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 4.65,
+    "chroma_stft": 8442,
+    "rmse": 19,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 6.42,
+    "chroma_stft": 7500,
+    "rmse": 19,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 9.19,
+    "chroma_stft": 2755,
+    "rmse": 59,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 14.12,
+    "chroma_stft": 1800,
+    "rmse": 68,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 1.93,
+    "chroma_stft": 1244,
+    "rmse": 15,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 8.49,
+    "chroma_stft": 11896,
+    "rmse": 43,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 14.73,
+    "chroma_stft": 6201,
+    "rmse": 34,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 14.72,
+    "chroma_stft": 13291,
+    "rmse": 8,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 15.59,
+    "chroma_stft": 15622,
+    "rmse": 20,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 6.66,
+    "chroma_stft": 11979,
+    "rmse": 16,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 7.11,
+    "chroma_stft": 2078,
+    "rmse": 41,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 9.56,
+    "chroma_stft": 6264,
+    "rmse": 56,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2011,
+    "beats": 14.41,
+    "chroma_stft": 8859,
+    "rmse": 61,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 7.06,
+    "chroma_stft": 13388,
+    "rmse": 8,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 7.84,
+    "chroma_stft": 15310,
+    "rmse": 13,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 16.61,
+    "chroma_stft": 2996,
+    "rmse": 53,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 0.94,
+    "chroma_stft": 10264,
+    "rmse": 14,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 0.5,
+    "chroma_stft": 7320,
+    "rmse": 12,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 8.22,
+    "chroma_stft": 10679,
+    "rmse": 32,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2008,
+    "beats": 16.98,
+    "chroma_stft": 12176,
+    "rmse": 25,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 14.75,
+    "chroma_stft": 4751,
+    "rmse": 65,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 5.86,
+    "chroma_stft": 1285,
+    "rmse": 14,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 7.88,
+    "chroma_stft": 16326,
+    "rmse": 29,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 10.86,
+    "chroma_stft": 10525,
+    "rmse": 49,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 14.31,
+    "chroma_stft": 3458,
+    "rmse": 49,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 16.89,
+    "chroma_stft": 14662,
+    "rmse": 31,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 3.03,
+    "chroma_stft": 7757,
+    "rmse": 19,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 8.85,
+    "chroma_stft": 11306,
+    "rmse": 66,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 13.8,
+    "chroma_stft": 9768,
+    "rmse": 45,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 7.09,
+    "chroma_stft": 1036,
+    "rmse": 34,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 1.22,
+    "chroma_stft": 11674,
+    "rmse": 11,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 2,
+    "chroma_stft": 3923,
+    "rmse": 63,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 0.65,
+    "chroma_stft": 6289,
+    "rmse": 21,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 3.27,
+    "chroma_stft": 6471,
+    "rmse": 14,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 15.27,
+    "chroma_stft": 3486,
+    "rmse": 22,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 15.92,
+    "chroma_stft": 16062,
+    "rmse": 41,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 14.67,
+    "chroma_stft": 15770,
+    "rmse": 57,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 12.65,
+    "chroma_stft": 16722,
+    "rmse": 68,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 1.35,
+    "chroma_stft": 15640,
+    "rmse": 43,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 14.09,
+    "chroma_stft": 1976,
+    "rmse": 20,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2005,
+    "beats": 12.42,
+    "chroma_stft": 12132,
+    "rmse": 50,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 2.46,
+    "chroma_stft": 2731,
+    "rmse": 35,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 2.56,
+    "chroma_stft": 15417,
+    "rmse": 15,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 0.65,
+    "chroma_stft": 6874,
+    "rmse": 30,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2007,
+    "beats": 10.04,
+    "chroma_stft": 2162,
+    "rmse": 48,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 9.99,
+    "chroma_stft": 9712,
+    "rmse": 68,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 2.5,
+    "chroma_stft": 7518,
+    "rmse": 27,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 16.93,
+    "chroma_stft": 7575,
+    "rmse": 59,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 7.34,
+    "chroma_stft": 14047,
+    "rmse": 68,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 9,
+    "chroma_stft": 15006,
+    "rmse": 52,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 6.09,
+    "chroma_stft": 3525,
+    "rmse": 32,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 10.72,
+    "chroma_stft": 2217,
+    "rmse": 31,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2013,
+    "beats": 3.18,
+    "chroma_stft": 12701,
+    "rmse": 68,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 6.2,
+    "chroma_stft": 8762,
+    "rmse": 54,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2010,
+    "beats": 12.47,
+    "chroma_stft": 8661,
+    "rmse": 52,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 7.07,
+    "chroma_stft": 10813,
+    "rmse": 18,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2018,
+    "beats": 4.67,
+    "chroma_stft": 6761,
+    "rmse": 44,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2017,
+    "beats": 11.36,
+    "chroma_stft": 5117,
+    "rmse": 40,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2015,
+    "beats": 0.94,
+    "chroma_stft": 8367,
+    "rmse": 51,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2014,
+    "beats": 1.74,
+    "chroma_stft": 8916,
+    "rmse": 40,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 7.13,
+    "chroma_stft": 2991,
+    "rmse": 46,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 7.51,
+    "chroma_stft": 12337,
+    "rmse": 10,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 11.75,
+    "chroma_stft": 9906,
+    "rmse": 26,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 11.2,
+    "chroma_stft": 1514,
+    "rmse": 39,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 4.9,
+    "chroma_stft": 15294,
+    "rmse": 58,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 4.37,
+    "chroma_stft": 5822,
+    "rmse": 54,
+    "spectral_centroid": 5,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2016,
+    "beats": 16.99,
+    "chroma_stft": 6079,
+    "rmse": 70,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 15.72,
+    "chroma_stft": 6525,
+    "rmse": 39,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 9.15,
+    "chroma_stft": 11627,
+    "rmse": 35,
+    "spectral_centroid": 3,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2009,
+    "beats": 4.34,
+    "chroma_stft": 12186,
+    "rmse": 42,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2006,
+    "beats": 13.06,
+    "chroma_stft": 11080,
+    "rmse": 48,
+    "spectral_centroid": 2,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+},
+{
+    "tempo": 2012,
+    "beats": 3.42,
+    "chroma_stft": 628,
+    "rmse": 66,
+    "spectral_centroid": 4,
+    "spectral_bandwidth": 1,
+    "label": "Apple"
+}]

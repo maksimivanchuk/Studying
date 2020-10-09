@@ -1,0 +1,17 @@
+
+>squid:S1659h" Declare "b2" on a separate line.(¨º§”8ÒÎ»æè-
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¥¯İæè-
+Fsquid:S1604I"(Make this anonymous inner class a lambda(ì•Ù8º³ãèè-
+jsquid:S1301˜"KReplace this "switch" statement by "if" statements to increase readability.(ÁÅ®8àªõèè-
+psquid:S00117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šîë“8ÒÎ»æè-
+Rsquid:S1948"/Make "knowledgeBase" transient or serializable.(îÍ¯÷ùÿÿÿÿ8Ë·Öåè-
+X"squid:SwitchLastCaseIsDefaultCheck˜""Add a default case to this switch.(ÁÅ®8àªõèè-
+Asquid:S1148Q"#Use a logger to log this exception.(Ç’Çê8ãªéèè-
+psquid:S2095§"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(£·ÀÁûÿÿÿÿ8ñùûèè-
+Gsquid:S1948")Make "answers" transient or serializable.(µÓ¥Ï8Ë·Öåè-
+usquid:S3776g"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(¶ŞüÂüÿÿÿÿ8ÒÎ»æè-
+Esquid:S16041"(Make this anonymous inner class a lambda(Ï¹§8íòĞåè-
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ŸÙ¡Ó8íòĞåè-
+V
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ÉÜó8¥¯İæè-

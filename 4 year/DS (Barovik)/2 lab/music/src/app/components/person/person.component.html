@@ -1,0 +1,79 @@
+<div class="mt-2 ml-2">
+  <div>
+    <button class="btn btn-danger mb-2" (click)="back()">Back</button>
+  </div>
+  <div>
+    <span class="mr-2">Choose person from list:</span>
+    <select (change)="getPersonById($event)" class="form-control mt-1 personFromList">
+      <option value="empty"></option>
+      <option [value]="person.id" *ngFor="let person of copy">{{person.surname}}</option>
+    </select>
+  </div>
+
+  <button type="button" class="btn btn-light mt-2" (click)="openSubmit()" *ngIf="!edit">Add new person</button>
+
+  <form class="mt-4" *ngIf="openForm" [formGroup]="personInfo" (ngSubmit)="submit()">
+    <label for="band" class="mr-1">Band:</label>
+    <select formControlName="bandId" id="band">
+      <option [value]="band.id" *ngFor="let band of allBands">{{band.name}}</option>
+    </select>
+    <div class="form-group">
+      <input formControlName="name" placeholder="Name">
+    </div>
+
+    <div class="form-group">
+      <input formControlName="surname" placeholder="Surname">
+    </div>
+
+    <div class="form-group">
+      <label for="birthday" class="mr-1">Birthday:</label>
+      <input id="birthday" type="date" formControlName="birthday">
+    </div>
+
+    <div class="form-group">
+      <input formControlName="financialCondition" placeholder="Finances (in millions)">
+    </div>
+
+    <div class="form-group">
+      <textarea formControlName="biography" placeholder="Biography"></textarea>
+    </div>
+
+    <button class="btn btn-success mr-2" [disabled]="personInfo.invalid">Submit</button>
+    <button class="btn btn-danger" (click)="this.openForm = false">Cancel</button>
+  </form>
+
+  <div class="mt-4">
+    <h4 *ngIf="!isOnePerson">All persons:</h4>
+    <table class="table allPersons">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Band</th>
+        <th>Birthday</th>
+        <th>Financial condition (in millions)</th>
+        <th>Biography</th>
+        <th></th>
+        <th></th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let person of persons">
+        <td>{{person.name}}</td>
+        <td>{{person.surname}}</td>
+        <td>{{person.band.name}}</td>
+        <td>{{person.birthday | date}}</td>
+        <td>{{person.financialCondition}}</td>
+        <td>{{person.biography}}</td>
+        <td>
+          <button (click)="editPerson(person)" class="btn btn-primary">Edit</button>
+        </td>
+        <td>
+          <button (click)="deletePerson(person)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+    <button class="btn btn-light" (click)="getAllPersons()" *ngIf="isOnePerson">Get all</button>
+  </div>
+</div>

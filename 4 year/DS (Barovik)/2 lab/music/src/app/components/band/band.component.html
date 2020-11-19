@@ -1,0 +1,72 @@
+<div class="mt-2 ml-2">
+  <div>
+    <button class="btn btn-danger mb-2" (click)="back()">Back</button>
+  </div>
+  <div>
+    <span class="mr-2">Choose band from list:</span>
+    <select (change)="getBandById($event)" class="form-control mt-1 bandFromList">
+      <option value="empty"></option>
+      <option [value]="band.id" *ngFor="let band of copy">{{band.name}}</option>
+    </select>
+  </div>
+
+  <button type="button" class="btn btn-light mt-2" (click)="openSubmit()" *ngIf="!edit">Add new band</button>
+
+  <form class="mt-4" *ngIf="openForm" [formGroup]="bandInfo" (ngSubmit)="submit()">
+    <div class="form-group">
+      <input formControlName="name" placeholder="Name">
+    </div>
+
+    <div class="form-group">
+      <label for="creation" class="mr-1">Date of creation:</label>
+      <input id="creation" type="date" formControlName="dateOfCreation">
+    </div>
+
+    <div class="form-group">
+      <input formControlName="numberOfAlbums" placeholder="Number of albums">
+    </div>
+    <div class="form-group">
+      <input formControlName="sales" placeholder="Sales (in millions)">
+    </div>
+
+    <div class="form-group">
+      <textarea formControlName="description" placeholder="Description"></textarea>
+    </div>
+
+    <button class="btn btn-success mr-2" [disabled]="bandInfo.invalid">Submit</button>
+    <button class="btn btn-danger" (click)="this.openForm = false">Cancel</button>
+  </form>
+
+  <div class="mt-4">
+    <h4 *ngIf="!isOneBand">All bands:</h4>
+    <table class="table allBands">
+      <thead>
+      <tr>
+        <th>Name</th>
+        <th>Date of creation</th>
+        <th>Number of albums</th>
+        <th>Sales</th>
+        <th>Description</th>
+        <th></th>
+        <th></th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let band of bands">
+        <td>{{band.name}}</td>
+        <td>{{band.dateOfCreation | date}}</td>
+        <td>{{band.numberOfAlbums}}</td>
+        <td>{{band.sales}}</td>
+        <td>{{band.description}}</td>
+        <td>
+          <button (click)="editBand(band)" class="btn btn-primary">Edit</button>
+        </td>
+        <td>
+          <button (click)="deleteBand(band)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+    <button class="btn btn-light" (click)="getAllBands()" *ngIf="isOneBand">Get all</button>
+  </div>
+</div>

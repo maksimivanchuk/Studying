@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+c:\users\komar\source\repos\project1\project1\source.cpp(56): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\komar\source\repos\project1\project1\source.cpp(58): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1.vcxproj -> C:\Users\komar\source\repos\Project1\Debug\Project1.exe
